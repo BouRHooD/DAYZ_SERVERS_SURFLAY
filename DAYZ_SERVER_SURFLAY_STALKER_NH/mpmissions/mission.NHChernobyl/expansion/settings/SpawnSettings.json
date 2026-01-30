@@ -2,72 +2,100 @@
     "m_Version": 7,
     "SpawnLocations": [],
     "StartingClothing": {
-        "EnableCustomClothing": 1,
-        "SetRandomHealth": 1,
-        "Headgear": [],
+        "EnableCustomClothing": 0,
+        "SetRandomHealth": 0,
+        "Headgear": [
+			"SFP_Shapka_old"
+		],
         "Glasses": [],
         "Masks": [],
         "Tops": [
-            "TShirt_Green",
-            "TShirt_Blue",
-            "TShirt_Black",
-            "TShirt_Beige",
-            "TShirt_Red",
-            "TShirt_OrangeWhiteStripes",
-            "TShirt_White",
-            "TShirt_Red",
-            "TShirt_Grey",
-            "TShirt_RedBlackStripes"
+            "SFP_SurvScav_Tors"
         ],
         "Vests": [],
         "Gloves": [],
         "Pants": [
-            "CanvasPants_Beige",
-            "CanvasPants_Blue",
-            "CanvasPants_Grey",
-            "CanvasPants_Red",
-            "CanvasPants_Violet",
-            "CanvasPantsMidi_Beige",
-            "CanvasPantsMidi_Blue",
-            "CanvasPantsMidi_Grey",
-            "CanvasPantsMidi_Red",
-            "CanvasPantsMidi_Violet"
+            "SFP_SurvScav_Pants"
         ],
         "Belts": [],
         "Shoes": [
-            "AthleticShoes_Blue",
-            "AthleticShoes_Grey",
-            "AthleticShoes_Brown",
-            "AthleticShoes_Green",
-            "AthleticShoes_Black"
+            "SFP_Stranik_Boots"
         ],
         "Armbands": [],
-        "Backpacks": [
-            "TaloonBag_Blue",
-            "TaloonBag_Green",
-            "TaloonBag_Orange",
-            "TaloonBag_Violet"
-        ]
+        "Backpacks": []
     },
     "EnableSpawnSelection": 0,
     "SpawnOnTerritory": 0,
     "StartingGear": {
-        "EnableStartingGear": 1,
+        "EnableStartingGear": 0,
         "ApplyEnergySources": 1,
-        "SetRandomHealth": 1,
+        "SetRandomHealth": 0,
         "UpperGear": [
             {
                 "ClassName": "Rag",
                 "Quantity": 4,
                 "Attachments": []
             },
+			{
+                "ClassName": "SFP_Matchbox_Rus",
+                "Quantity": -1,
+                "Attachments": []
+            },
             {
-                "ClassName": "Apple",
+                "ClassName": "SFP_SIGARETA_SMOKE",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "SFP_Food_LomtikHleb",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "SFP_Food_Kolbasa",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "SFP_Can_water_closed",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "SFP_DrinkCan_Zhigulevskoe",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
                 "Quantity": -1,
                 "Attachments": []
             }
         ],
-        "PantsGear": [],
+        "PantsGear": [
+			{
+				"ClassName": "MakarovIJ70",
+				"Quantity": -1,
+				"Attachments": [
+					"Mag_IJ70_8Rnd"
+				]
+			},
+			{
+				"ClassName": "SFP_knife_Prut_handmade",
+				"Quantity": -1,
+				"Attachments": []
+			},
+			{
+                "ClassName": "Mag_IJ70_8Rnd",
+                "Quantity": -1,
+                "Attachments": []
+            },
+			{
+                "ClassName": "Mag_IJ70_8Rnd",
+                "Quantity": -1,
+                "Attachments": []
+            }
+		],
         "BackpackGear": [],
         "VestGear": [],
         "PrimaryWeapon": {},

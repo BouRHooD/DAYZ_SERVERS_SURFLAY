@@ -1,0 +1,98 @@
+{
+    "NPCDebug": 0,
+    "version": 1,
+    "NPCLocations": [
+        {
+            "name": "npc1",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "npcitem": "",
+            "npcpose": 1,
+            "triggerpos": "4546 71 1814",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "triggercooldown": 30,
+            "sounds": [
+                "1",
+                "2"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        },
+        {
+            "name": "npc2",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "npcitem": "",
+            "npcpose": 2,
+            "triggerpos": "4864 123 6671",
+            "triggermins": "-2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "triggercooldown": 30,
+            "sounds": [
+                "4",
+                "12",
+                "25"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        },
+        {
+            "name": "npc3",
+            "npcid": 0,
+            "npcpos": "",
+            "npcclass": "",
+            "npcloadout": [
+                ""
+            ],
+            "npcitem": "",
+            "npcpose": 3,
+            "triggerpos": "2453 39 6209",
+            "triggermins": "2 -1 -2",
+            "triggermaxs": "2 1 2",
+            "triggerradius": 0.0,
+            "triggercooldown": 30,
+            "sounds": [
+                "4",
+                "12",
+                "25"
+            ],
+            "emotes": [
+                "1",
+                "44"
+            ]
+        }
+    ],
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_AKM",
+            "weapon": "AKM",
+            "attachments": [
+                "Mag_AKM_30Rnd",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_Stick",
+            "weapon": "SharpWoodenStick",
+            "attachments": [
+                "PigSteakMeat"
+            ]
+        }
+    ]
+}

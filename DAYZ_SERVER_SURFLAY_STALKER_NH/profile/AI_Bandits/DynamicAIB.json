@@ -1,0 +1,100 @@
+{
+    "version": 1,
+    "showtriggers": 0,
+    "crashsites": 1,
+    "cardamage": 1,
+    "GroupLocations": [
+        {
+            "name": "Group1",
+            "faction": "Bandits",
+            "waypoints": [
+                "5237.821777 9.568775 2157.804199",
+                "4887.835449 9.560701 2578.265625",
+                "4917.622559 9.539299 2599.980469"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 75.0,
+            "grenadechance": 0.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Rag",
+                    "Apple"
+                ]
+            }
+        }
+    ],
+    "SniperLocations": [
+        {
+            "name": "Sniper1",
+            "positions": [
+                "5237.821777 9.568775 2157.804199",
+                "4887.835449 9.560701 2578.265625",
+                "4917.622559 9.539299 2599.980469"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 0,
+            "triggerpos": "5237.821777 9.568775 2157.804199",
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Stone",
+                    "BandageDressing"
+                ]
+            }
+        }
+    ],
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_AKM",
+            "weapon": "AKM",
+            "attachments": [
+                "Mag_AKM_30Rnd",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ]
+        }
+    ]
+}

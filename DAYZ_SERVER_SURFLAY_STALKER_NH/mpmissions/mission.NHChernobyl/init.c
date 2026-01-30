@@ -36,7 +36,7 @@ class CustomMission: MissionServer
 	{
 		if ( itemEnt )
 		{
-			float rndHlt = Math.RandomFloat( 0.45, 0.65 );
+			float rndHlt = Math.RandomFloat( 0.65, 1.00 );
 			itemEnt.SetHealth01( "", "", rndHlt );
 		}
 	}
@@ -52,7 +52,7 @@ class CustomMission: MissionServer
 		return m_player;
 	}
 
-	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
+	void StartingEquipSetupV0(PlayerBase player, bool clothesChosen)
 	{
 		EntityAI itemClothing;
 		EntityAI itemEnt;
@@ -64,7 +64,6 @@ class CustomMission: MissionServer
 		{
 			SetRandomHealth( itemClothing );
             
-			
             itemEnt = itemClothing.GetInventory().CreateInInventory( "AmmoBox_380_35rnd" );
 			player.SetQuickBarEntityShortcut(itemEnt, 8);
             
@@ -98,6 +97,73 @@ class CustomMission: MissionServer
         }
 		
 		itemClothing = player.FindAttachmentBySlotName( "Feet" );
+	}
+
+	void StartingEquipSetupV1(PlayerBase player, bool clothesChosen)
+	{
+		EntityAI itemClothing;
+        EntityAI itemEnt;
+        ItemBase itemBs;
+
+        // Одеваем игрока
+        player.RemoveAllItems();
+        
+        // Головной убор
+        itemClothing = player.GetInventory().CreateInInventory("SFP_Shapka_old");
+        
+        // Верхняя одежда
+        itemClothing = player.GetInventory().CreateInInventory("SFP_SurvScav_Tors");
+        if (itemClothing)
+        {
+            // UpperGear - предметы в карманы верхней одежды
+            itemEnt = itemClothing.GetInventory().CreateInInventory("Rag");
+            if (itemEnt)
+            {
+                itemEnt.SetQuantity(5);
+                player.SetQuickBarEntityShortcut(itemEnt, 2); // Слот 3 - бинты
+            }
+            
+            itemClothing.GetInventory().CreateInInventory("SFP_Matchbox_Rus");
+            itemClothing.GetInventory().CreateInInventory("SFP_SIGARETA_SMOKE");
+            itemClothing.GetInventory().CreateInInventory("SFP_Food_LomtikHleb");
+            itemClothing.GetInventory().CreateInInventory("SFP_Food_Kolbasa");
+            itemClothing.GetInventory().CreateInInventory("SFP_Can_water_closed");
+            itemClothing.GetInventory().CreateInInventory("SFP_DrinkCan_Zhigulevskoe");
+            itemClothing.GetInventory().CreateInInventory("Chemlight_White");
+        }
+        
+        // Штаны
+        itemClothing = player.GetInventory().CreateInInventory("SFP_SurvScav_Pants");
+        if (itemClothing)
+        {
+            // PantsGear - предметы в карманы штанов
+			// Нож
+            itemEnt = itemClothing.GetInventory().CreateInInventory("SFP_knife_Prut_handmade");
+			if (itemEnt)
+            {
+                player.SetQuickBarEntityShortcut(itemEnt, 0); // Слот 1 - нож
+            }
+
+            // Пистолет с магазином
+            itemEnt = itemClothing.GetInventory().CreateInInventory("MakarovIJ70");
+            if (itemEnt)
+            {
+                EntityAI magazine = itemEnt.GetInventory().CreateAttachment("Mag_IJ70_8Rnd");
+                player.SetQuickBarEntityShortcut(itemEnt, 1); // Слот 2 - пистолет
+            }
+            
+            // Запасные магазины
+            itemClothing.GetInventory().CreateInInventory("Mag_IJ70_8Rnd");
+            itemClothing.GetInventory().CreateInInventory("Mag_IJ70_8Rnd");
+        }
+        
+        // Обувь
+        itemClothing = player.GetInventory().CreateInInventory("SFP_Stranik_Boots");
+	}
+
+	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
+	{
+		StartingEquipSetupV1(player, clothesChosen);
 	}
 };
 

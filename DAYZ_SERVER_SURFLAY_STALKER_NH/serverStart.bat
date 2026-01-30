@@ -38,7 +38,7 @@ set modList=%modList%@ViewInventoryAnimation;
 set modList=%modList%@Underground Bases;
 set modList=%modList%@Zens Sleeping Mod;
 set modList=%modList%@OMD_Radio;
-set modList=%modList%@Stalker Light and Effects;
+::set modList=%modList%@Stalker Light and Effects;
 set modList=%modList%@XZone STALKER Mutants;
 set modList=%modList%@DayZ-Raven;
 set modList=%modList%@PSY_Emission;
@@ -46,8 +46,14 @@ set modList=%modList%@Radiation;
 set modList=%modList%@PVE_System;
 set modList=%modList%@Code Lock;
 set modList=%modList%@XZone Artifacts;
-set modList=%modList%@SPK(Stalker Pashka Kostum);
+::set modList=%modList%@CargoSorting;
+set modList=%modList%@CJ187-MoreMoney;
+::set modList=%modList%@AI Bandits;
+set modList=%modList%@SpawnerBubaku;
+::set modList=%modList%@STALKER NPC(static);
+::modList=%modList%@SPK(Stalker Pashka Kostum);
 set modList=%modList%@Stalker Anomaly & Detectors Free V2;
+set modList=%modList%@Forever_Burning_Campfire
 set modList=%modList%"
 
 ::Build server mod list
