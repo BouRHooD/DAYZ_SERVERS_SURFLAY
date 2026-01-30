@@ -1,0 +1,48 @@
+00:29:24.255 [VehicleDestroyed] Hatchback_02_Black (id=70593F296D40CB3EAE75EDA5577F7C62 pos=<12824.8, 59.99, 10115.8>)
+00:30:03.874 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) joined the party "Surflay" (id=0 ownerUID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= ownerName=BouRHooD)
+00:30:03.874 [Expansion Quests] Initialize quest system on the connected client with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.877 [Expansion Quests] Loaded existing player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.877 [Expansion Quests] Loaded existing group quest data for group with ID=0
+00:30:03.878 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.878 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.878 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.879 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.879 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.879 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.879 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.881 [Expansion Quests] Sending ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= quest configs to client for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.881 [Expansion Quests] Sending player quest data for 4 quests to player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+00:30:03.989 [Killfeed] AI Jose (Рейдеры) был убит.
+00:30:03.990 [AI Patrol 00011] Loaded 0 persistent KPP South (Shamans) bots at <5750.934082, 90.069992, 1056.963745>
+00:30:03.990 [AI Patrol 00011] Global patrol count: 1
+00:30:03.990 [AI Patrol 00011] Global Expansion AI count: 1 alive, 0 deceased
+00:30:03.990 [AI Patrol 00011] Survivor category patrol count: 1
+00:30:04.858 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+00:30:08.772 [AI Patrol 00011] KPP South (Shamans) bots were wiped out (spawn position <5750.934082, 90.069992, 1056.963745>, 0/0 deceased)
+00:30:08.772 [AI Patrol 00011] Global patrol count: 0
+00:30:08.772 [AI Patrol 00011] Global Expansion AI count: 1 alive, 0 deceased
+00:30:08.773 [AI Patrol 00011] Survivor category patrol count: 0
+00:30:16.912 [AI Object Patrol 00003] Spawning 1 West bots at <5073.713379, 107.093948, 584.708130>
+00:30:16.926 [AI Object Patrol 00003] Global patrol count: 1
+00:30:16.926 [AI Object Patrol 00003] Global Expansion AI count: 2 alive, 0 deceased
+00:30:16.927 [AI Object Patrol 00003] MilitaryRoaming category patrol count: 1
+00:30:22.845 [Killfeed] [SRF] BouRHooD умер от TramplinTrigger.
+00:30:31.199 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) joined the party "Surflay" (id=0 ownerUID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= ownerName=BouRHooD)
+00:30:32.191 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+00:35:41.929 [VehicleDeleted] Hatchback_02_Black (id=70593F296D40CB3EAE75EDA5577F7C62 pos=<12824.8, 60, 10115.8>)
+00:40:03.793 [AI Patrol 00011] Despawning 0 KPP South (Shamans) bots (spawn position <5039.331055, 103.976570, 564.724487>, 0/0 deceased)
+00:46:05.859 [AI Patrol 00011] Spawning 1 KPP South (East) bots at <5039.331055, 103.976570, 564.724487>
+00:46:05.885 [AI Patrol 00011] Global patrol count: 2
+00:46:05.886 [AI Patrol 00011] Global Expansion AI count: 3 alive, 0 deceased
+00:46:05.886 [AI Patrol 00011] Survivor category patrol count: 1
+00:48:27.696 [Killfeed] AI Lewis (KPP South) умер от AI Denis (Запад) из Pioneer с расстояния 2 м.
+00:48:28.810 [AI Patrol 00011] KPP South (East) bots were wiped out (spawn position <5039.331055, 103.976570, 564.724487>, 1/1 deceased)
+00:48:28.810 [AI Patrol 00011] Global patrol count: 1
+00:48:28.810 [AI Patrol 00011] Global Expansion AI count: 2 alive, 1 deceased
+00:48:28.810 [AI Patrol 00011] Survivor category patrol count: 0
+01:06:05.418 [Expansion Quests] Added new objective data for type=TARGET | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=3
+01:06:05.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=8
+01:06:05.421 [Expansion Quests] Added new objective data for type=TARGET | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=2
+01:06:05.427 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=9
+01:06:05.428 [Expansion Quests] Added new objective data for type=ACTION | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=1
+01:06:05.434 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=11

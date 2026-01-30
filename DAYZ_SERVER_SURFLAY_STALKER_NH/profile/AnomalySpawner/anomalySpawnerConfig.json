@@ -7,7 +7,7 @@
   "enableAnomalyOrientation": 1,
   "enableSpawnArtefacts": 1,
   "spawnArtefactsType": 2,
-  "enableDebugLog": 1,
+  "enableDebugLog": 0,
   "Artefacts_Otklik": 
   [
 	  "XZone_ART_Batareyka"

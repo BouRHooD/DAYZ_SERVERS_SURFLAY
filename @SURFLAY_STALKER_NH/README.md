@@ -1,6 +1,6 @@
-SURFLAY STALKER NH | PVE WINTER BOTS AI | 28.01.2025
+SURFLAY STALKER NH | PVE WINTER BOTS AI | 30.01.2025
 
-Открытые исходники проекта:
+✨ Открытые исходники проекта: 
 https://github.com/SURFLAY/SURFLAY_STALKER_NH
 
 📦 Перепакованые и модифицированные моды:
