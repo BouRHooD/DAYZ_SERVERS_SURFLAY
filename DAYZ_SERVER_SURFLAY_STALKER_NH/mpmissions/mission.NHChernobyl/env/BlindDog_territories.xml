@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type> <!-- Start of Cordon -->
+    <territory color="4291611852">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5430.0" z="1286.3" r="6"/>
+    </territory>
+	<territory color="4291611852"> <!-- Start of Great Swamps -->
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2494.3935546875" z="598.6405029296875" r="6"/>
+    </territory>
+</territory-type>

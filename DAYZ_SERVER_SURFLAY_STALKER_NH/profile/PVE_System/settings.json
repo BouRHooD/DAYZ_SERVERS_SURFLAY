@@ -1,0 +1,10 @@
+{
+    "zones": [
+      { "position": "2784.013916 105.211311 2204.332275", "radius": 200.0 },
+      { "position": "7970.452148 100.260933 1008.447388", "radius": 25.0 }
+    ],
+    "expansionAIDamage": false,
+    "canRestrain": false,
+    "canFeed": false
+}
+  

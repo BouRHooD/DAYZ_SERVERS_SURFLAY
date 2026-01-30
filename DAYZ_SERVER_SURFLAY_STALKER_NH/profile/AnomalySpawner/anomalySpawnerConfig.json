@@ -1,0 +1,4352 @@
+{
+  "enableAnomalyOptimization": 1,
+  "worldSizeX": 20471,
+  "worldSizeY": 20474,
+  "spawnDistanceNearPlayer": 300,
+  "updateTime": 10,
+  "enableAnomalyOrientation": 1,
+  "enableSpawnArtefacts": 1,
+  "spawnArtefactsType": 2,
+  "enableDebugLog": 1,
+  "Artefacts_Otklik": 
+  [
+	  "XZone_ART_Batareyka"
+  ],
+  "Artefacts_Bear": 
+  [
+	  "XZone_ART_Batareyka"
+  ],
+  "Artefacts_Velas": 
+  [
+	  "XZone_ART_Batareyka"
+  ],
+  "Artefacts_Svarog": 
+  [
+	  "XZone_ART_Batareyka"
+  ],
+  "ArtefactsSpawnData": 
+  [
+    {
+      "AnomalyName": "Jarka",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+        {
+          "ArtefactClassName": "Artefact",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    },
+    {
+      "AnomalyName": "Par",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+        {
+          "ArtefactClassName": "Artefact",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    },
+    {
+      "AnomalyName": "Electra",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+		    {
+          "ArtefactClassName": "XZone_ART_Batareyka",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    },
+    {
+      "AnomalyName": "Kisel",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+		    {
+          "ArtefactClassName": "Artefact",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    },
+    {
+      "AnomalyName": "Tramplin",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+		    {
+          "ArtefactClassName": "Artefact",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    },
+    {
+      "AnomalyName": "Voronka",
+      "SpawnChancePercent": 100,
+      "ArtefactsData": [
+		    {
+          "ArtefactClassName": "Artefact",
+          "ArtefactSpawnChancePercent": 1
+        }
+      ]
+    }
+  ],
+  "teleportAnomaly": 
+  [
+    {
+        "anomalyPosition": [10.0, 110.0, 10.0],
+        "teleportType": 1,
+        "teleportToPositions":
+        [
+          [1000.0, 110.0, 1000.0],
+          [2000.0, 110.0, 2000.0]
+        ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": []
+      }
+    },
+    {
+        "anomalyPosition": [50.0, 110.0, 50.0],
+        "teleportType": 1,
+        "teleportToPositions":
+        [
+          [3000.0, 110.0, 3000.0],
+          [4000.0, 110.0, 4000.0]
+        ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": []
+      }
+    }
+  ],
+  "staticAnomaly": 
+  [
+    {
+      "_comment": "Test 1",
+      "anomalyName": "Jarka",
+      "anomalyPosition":
+      [
+        [100.0, 110.0, 100.0],
+        [200.0, 110.0, 100.0]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    },
+    {
+      "_comment": "Test 2",
+      "anomalyName": "Par",
+      "anomalyPosition":
+      [
+        [500.0, 110.0, 500.0],
+        [500.0, 110.0, 500.0]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    },
+    {
+      "_comment": "Tunel Close Under Most",
+      "anomalyName": "Electra",
+      "anomalyPosition":
+      [
+        [5362.225098, 97.120529, 1391.726563],
+        [5369.791992, 97.370895, 1402.808472],
+		[5370.643066, 106.917091, 1417.038696],
+		[5373.643066, 106.917091, 1428.038696],
+		[5378.643066, 106.917091, 1440.038696],
+		[5380.643066, 106.917091, 1454.038696],
+		[5384.003418, 98.531929, 1468.010498],
+		[5402.092773, 98.255013, 1486.785156],
+		[5369.029297, 97.451904, 1371.381836]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    },
+    {
+      "_comment": "Test 4",
+      "anomalyName": "Tramplin",
+      "anomalyPosition":
+      [
+        [5391.9, 102.7, 1282.5],
+        [5371.9, 102.7, 1272.5]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    },
+    {
+      "_comment": "Test 5",
+      "anomalyName": "Voronka",
+      "anomalyPosition":
+      [
+        [5351.9, 102.7, 1222.5],
+        [5331.9, 102.7, 1252.5]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    },
+    {
+      "_comment": "Test 6",
+      "anomalyName": "Kisel",
+      "anomalyPosition":
+      [
+        [0.0, 0.0, 0.0],
+        [0.0, 0.0, 0.0]
+      ],
+      "ArtefactsWithoutDetector": 
+      {
+        "SpawnChancePercent": 1.0,
+        "SpawnDistance_Min": 3.0,
+        "SpawnDistance_Max": 5.0,
+        "ArtefactsData": 
+        [
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          },
+          {
+            "ArtefactClassName": "Artefact",
+            "ArtefactSpawnChancePercent": 100
+          }
+        ]
+      }
+    }
+  ],
+  "dynamicAnomaly": 
+  [
+    {
+      "_comment": "1 Elevator Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5391.9, 102.7, 1282.5],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 10,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 1,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "2 KPP Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [4968.5, 104.2, 329.3],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 10,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "3 KPP Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5181.789063, 94.980217, 661.239929],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 10,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "4 Most Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5475.311035, 104.255013, 988.573364],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 10,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "5 Under Most Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5605.856934, 104.254997, 1392.426270],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 10,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "6 Close Most Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5866.866699, 119.004959, 1418.347656],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "7 Gruzovik smerti Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5866.220215, 108.479446, 1855.726563],
+      "zoneRadius": 100,
+      "distanceBTWAnomaly": 1,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 20,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "8 Close Derebas Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5309.392578, 105.579552, 930.567871],
+      "zoneRadius": 50,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "9 Close Derebas Sidor Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5008.434570, 100.159447, 1093.199219],
+      "zoneRadius": 50,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "10 Close Derebas To KPP Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5144.229004, 99.724854, 770.508057],
+      "zoneRadius": 50,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 5,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 5,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "11 Boloto Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [2168.219971, 107.602432, 1319.160034],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "12 Lochina Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [7970.009277, 107.574142, 1303.189697],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "13 Voronok Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [7976.750000, 99.031105, 3688.669922],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "14 Svalka techiki Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [8917.044922, 107.555008, 5182.555176],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "15 Rostok Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5742.750000, 107.529999, 6049.759766],
+      "zoneRadius": 240,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 10,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 10,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 20,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 10,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 10,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 10,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "16 Yantar Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [4115.850098, 96.666595, 5985.390137],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "17 Yantar Forward Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [2890.717773, 107.555000, 7537.611816],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "17 Zvezda Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [2023.637085, 112.105011, 9320.328125],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "18 Karier Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [2222.203613, 131.317780, 11812.201172],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "19 RLS DUGA Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [6358.687500, 123.301270, 8536.501953],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 150,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "20 Arhi Anomaly Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [7007.560059, 86.529999, 11415.400391],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "21 Chaes Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [8245.705078, 107.084984, 15263.805664],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 150,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Pryapat Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [4522.043457, 107.555008, 17540.353516],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 150,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Izumrudnoe Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [928.738708, 112.656654, 18593.166016],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 150,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Skadowsk Left Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [1062.325073, 120.394974, 19853.623047],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 150,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Generators Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [7538.904297, 102.844887, 13352.167969],
+      "zoneRadius": 500,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 350,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Pole Sovhoz Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [4806.240234, 102.522469, 9184.000000],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "22 Depo Bandity Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [5658.994141, 108.362877, 3153.609619],
+      "zoneRadius": 1200,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "23 Agroprom Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [2804.072754, 107.554985, 3933.974365],
+      "zoneRadius": 500,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 150,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "24 Empty Area Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [1282.670166, 120.455002, 14694.088867],
+      "zoneRadius": 1500,
+      "distanceBTWAnomaly": 5,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 50,
+			    "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Tramplin",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Voronka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Kisel",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    },
+	{
+      "_comment": "25 Boloto Derevnya Dynamic",
+      "zoneType": "Box",
+      "zonePosition": [1857.247681, 108.225471, 1765.332031],
+      "zoneRadius": 50,
+      "distanceBTWAnomaly": 2,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Jarka",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        },
+        {
+          "anomalyName":"Par",
+          "anomalyCount": 50,
+          "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

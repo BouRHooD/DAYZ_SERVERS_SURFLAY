@@ -1,0 +1,51 @@
+---------------------------------------------
+Log error_2026-01-28_00-44-04.log started at 2026-01-28 01:02:12
+
+
+
+------------------------------------
+BRHD, 2026-01-28
+01:02:12.298 [ExpansionQuestModule<1b86bfb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91
+
+
+------------------------------------
+BRHD, 2026-01-28
+01:02:12.303 [ExpansionQuestModule<1b86bfb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91
+
+
+------------------------------------
+BRHD, 2026-01-28
+01:02:12.308 [ExpansionQuestModule<1b86bfb0>::SaveAndSyncQuestData] :: [ERROR] :: [Expansion Quests] Could not get player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+Class:      'ExpansionQuestModule'
+Function: 'SaveAndSyncQuestData'
+Stack trace:
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3749
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:3673
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\systems\quests\expansionquestmodule.c:480
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c:64
+JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c:197
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:44
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:32
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c:91

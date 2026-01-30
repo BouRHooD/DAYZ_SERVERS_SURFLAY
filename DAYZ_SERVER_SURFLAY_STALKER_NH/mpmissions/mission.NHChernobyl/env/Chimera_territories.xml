@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type> <!-- Start of Cordon -->
+    <territory color="4291611852">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2501.299560546875" z="7711.19921875" r="6"/>
+    </territory>
+</territory-type>

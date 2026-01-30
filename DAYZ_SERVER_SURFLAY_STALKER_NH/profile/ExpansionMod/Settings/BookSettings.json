@@ -1,0 +1,166 @@
+{
+    "m_Version": 5,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "Общие",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Оскорбления, дискриминация, экстремистские и расистские высказывания или тексты являются табу."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Мы оставляем за собой право исключать с сервера людей, которые разделяют экстремистские или расистские идеи или которые явно нарушают гармонию на сервере."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Решения членов команды, как сторонника, так и администратора, должны приниматься без обсуждения."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Провокации и агрессивное поведение недопустимы и будут наказаны! Будьте дружелюбны к другим игрокам и своей команде, как в чате, так и голосом!"
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Использование внешних программ, скриптов и читов недопустимо и карается постоянным исключением."
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Настройки строительства",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "Создание ванильных построек",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "Создание Expansion построек",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Настройки Raid",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "Можно рейдить (Safes)",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "Множитель урона взравов (Safe)",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "Множитель урона снарядов (Safe)",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "Время взрыва",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "Множитель урона взравов",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "Множитель урона снарядов",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Настройки территории",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "Размеры територии",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "Использование всей карты для приглашения в территорию",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Настройки карты",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "Нужен GPS для открытия карты",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "Нужна карта для открытия карты",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Настройки группы",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "Максимальное количество участников в группе",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "Использование всей карты для приглашения в группу",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Домашняя страница",
+            "URL": "https://www.google.com/",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "Общая информация",
+            "Descriptions": [
+                {
+                    "DescriptionText": "PvE (от англ. player versus environment — «игрок против окружения»)"
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        }
+    ],
+    "EnableCraftingRecipesTab": 0
+}

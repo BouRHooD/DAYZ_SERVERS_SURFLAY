@@ -1,0 +1,16 @@
+{
+    "m_Version": 2,
+    "NewsFeedTexts": [
+        {
+            "m_Title": "26.01.2026 Обновление",
+            "m_Text": "Добавлены торговцы"
+        }
+    ],
+    "NewsFeedLinks": [
+        {
+            "m_Label": "Discord",
+            "m_Icon": "set:expansion_iconset image:icon_discord",
+            "m_URL": "https://www.google.com/"
+        }
+    ]
+}

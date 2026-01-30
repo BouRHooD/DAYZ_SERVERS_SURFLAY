@@ -1,0 +1,58 @@
+{
+    "itemConfigs": [
+        {
+            "classname": "NioshFaceMask",
+            "slotname": "Mask",
+            "resist": 40.0
+        },
+        {
+            "classname": "BalaclavaMask_Blackskull",
+            "slotname": "Mask",
+            "resist": 20.0
+        }
+    ],
+    "gasMaskConfigs": [
+        {
+            "classname": "GP5GasMask",
+            "slotname": "Mask",
+            "resist": 90.0,
+            "filter_slot_1": "GasMaskFilter",
+            "filter_slot_2": ""
+        },
+        {
+            "classname": "ExampleGasMask2Filters",
+            "slotname": "Mask",
+            "resist": 95.0,
+            "filter_slot_1": "LeftFilterSlot",
+            "filter_slot_2": "RightFilterSlot"
+        }
+    ],
+    "suitConfigs": [
+        {
+            "suit_name": "NBC Suit",
+            "resist": 95.0,
+            "pieces": [
+                {
+                    "classname": "NBCJacketGray",
+                    "slotname": "Body"
+                },
+                {
+                    "classname": "NBCPantsGray",
+                    "slotname": "Legs"
+                },
+                {
+                    "classname": "NBCGlovesGray",
+                    "slotname": "Gloves"
+                },
+                {
+                    "classname": "NBCHoodGray",
+                    "slotname": "Headgear"
+                },
+                {
+                    "classname": "NBCBootsGray",
+                    "slotname": "Feet"
+                }
+            ]
+        }
+    ]
+}

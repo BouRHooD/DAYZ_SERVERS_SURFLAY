@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+    <!--pos x="9994.689" z="11443.961" a="0" y="174.216" group="Train_Abandoned_Grabin"/-->
+    <group name="Train_Abandoned_Grabin">
+        <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="290.128" y="1.76"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="11.842" z="-4.539" a="290.386" y="1.218"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="34.556" z="-12.965" a="290.257" y="1.184"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="23.198" z="-8.707" a="289.741" y="1.182"/>
+        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="45.890" z="-17.110" a="290.257" y="1.185"/>
+        <child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="75.806" z="-28.257" a="290.386" y="0.0"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="59.639" z="-22.274" a="290.515" y="0.0"/>
+        <child type="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" deloot="0" lootmax="3" lootmin="1" x="91.894" z="-34.224" a="290.386" y="0.0"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="108.030" z="-40.201" a="290.386" y="0.0"/>
+        <child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="0" lootmax="3" lootmin="1" x="124.160" z="-46.207" a="290.386" y="0.0"/>
+        <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="79.295" z="-29.562" a="290.257" y="1.85"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="63.118" z="-23.523" a="290.257" y="1.85"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="89.259" z="-33.250" a="110.223" y="1.85"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="94.916" z="-35.327" a="290.447" y="1.85"/>
+        <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="3" lootmin="2" x="109.744" z="-40.790" a="110.223" y="1.85"/>
+        <child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="121.779" z="-45.332" a="290.257" y="1.85"/>
+    </group>
+</eventgroupdef>

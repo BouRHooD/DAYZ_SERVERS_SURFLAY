@@ -1,0 +1,57 @@
+01:18:20.943 [Expansion Quests] Initialize quest system on the connected client with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.945 [Expansion Quests] Loaded existing player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.945 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.945 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.946 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.946 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.946 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.946 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.946 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.947 [Expansion Quests] Sending ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= quest configs to client for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.948 [Expansion Quests] Sending player quest data for 4 quests to player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:18:20.983 [AI Patrol 00012] Loaded 1 persistent KPP South (West) bots at <5554.134277, 117.757896, 2171.953125>
+01:18:20.983 [AI Patrol 00012] Global patrol count: 1
+01:18:20.983 [AI Patrol 00012] Global Expansion AI count: 2 alive, 0 deceased
+01:18:20.984 [AI Patrol 00012] Survivor category patrol count: 1
+01:19:41.533 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:19:41.533 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:19:41.534 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:20:33.815 [Expansion Quests] Initialize quest system on the connected client with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.817 [Expansion Quests] Loaded existing player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.817 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.817 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.818 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.818 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.818 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.818 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.819 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.820 [Expansion Quests] Sending ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= quest configs to client for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:20:33.820 [Expansion Quests] Sending player quest data for 4 quests to player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:21:02.868 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:21:02.868 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:21:02.869 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:21:35.833 [MissionAirdrop] An airdrop is heading towards "Youpiter" (pos=<3777.770020, 0.000000, 16520.560547> type=Random_Youpiter) with a ExpansionAirdropContainer_Basebuilding
+01:22:22.771 [Expansion Quests] Initialize quest system on the connected client with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.772 [Expansion Quests] Loaded existing player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.772 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.772 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.773 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.773 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.773 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.773 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.774 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.775 [Expansion Quests] Sending ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= quest configs to client for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:22:22.775 [Expansion Quests] Sending player quest data for 4 quests to player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:29:05.491 [AI Object Patrol 00011] Spawning 1 West bots at <5073.713379, 107.093948, 584.708130>
+01:29:05.511 [AI Object Patrol 00011] Global patrol count: 2
+01:29:05.511 [AI Object Patrol 00011] Global Expansion AI count: 3 alive, 0 deceased
+01:29:05.512 [AI Object Patrol 00011] MilitaryRoaming category patrol count: 1
+01:30:00.357 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) joined the party "Surflay" (id=0 ownerUID= ownerName=)
+01:30:00.358 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) created a party named Surflay (SRF)
+01:30:01.357 [Expansion Quests] Created new persistent group quest data for group with ID=0
+02:01:07.674 [Expansion Quests] Added new objective data for type=TARGET | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=3
+02:01:07.676 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=8
+02:01:07.677 [Expansion Quests] Added new objective data for type=TARGET | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=2
+02:01:07.681 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=9
+02:01:07.681 [Expansion Quests] Added new objective data for type=ACTION | Key=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | ID=1
+02:01:07.686 [Expansion Quests] Updated and saved persistent player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= | Quest ID=11

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type> <!-- Start of Great Swamps -->
+    <territory color="4291611852">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2305.64453125" z="1849.5428466796876" r="6"/>
+    </territory>
+</territory-type>

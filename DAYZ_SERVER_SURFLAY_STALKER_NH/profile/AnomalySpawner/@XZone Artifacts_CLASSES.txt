@@ -1,0 +1,44 @@
+Из всех самые красивые =) и с описанием их свойств
+
+XZone_ART_Atom1 - Атом
+MMORP_ART_Baloon - Пузырь
+XZone_ART_Batareyka - Батарейка
+XZone_ART_Blood3 - Кровь камня
+XZone_ART_Busy - Бусы
+XZone_ART_Electro_moonlight - Лунный свет
+XZone_ART_Electro_blue - Гелий
+XZone_ART_Electra_flash1 - Вспышка
+XZone_ART_Electra_flash2 - Улучшеная вспышка
+XZone_ART_Shar - Ошненый шар
+XZone_ART_Electron - Электрон
+XZone_ART_FuzzKolobok - Колобок
+XZone_ART_FuzzKolobok2 - Белый колобок
+XZone_ART_Generator - Генератор
+XZone_ART_Glass3 - Глаз
+XZone_ART_Glass2 - Око зоны
+MMORP_ART_Goldfish_30 - Золотая рыбка
+XZone_ART_Gravi3 - Грави
+XZone_ART_Gravi2 - Улучшеный грави
+MMORP_ART_Kameniy_cvetok_3 - Каменый цветок
+XZone_ART_Kaply - Капли
+XZone_ART_Kislyshka- Кислушка
+XZone_ART_Kogot - Коготь
+XZone_ART_Kompass - Компас
+XZone_ART_Kristal - Кристал
+XZone_ART_Lighthouse - Маяк
+XZone_ART_Medusa - Медуза
+XZone_ART_Myaso - Ломоть мяса
+XZone_ART_ZvezdaNochnaya - Ночная звезда
+XZone_ART_NigthStar2 - Ночная звездочка
+MMORP_ART_OASIS_7 - Сердце Оазиса
+XZone_ART_Plamya - Пламя
+XZone_ART_Pustishka - Пустышка
+XZone_ART_RastenieAnomal - Измененный изолятор
+XZone_ART_Serofim - Серофим
+XZone_ART_Shturval_b - Штурвал
+XZone_ART_Soul - Душа
+XZone_ART_Soul2 - Душа Б-7
+XZone_ART_Tapeworm - Солитер
+XZone_ART_Vaselisk - Василиск
+XZone_ART_Vyvert - Выверт
+XZone_ART_Vyvert2 - Улучшеный Выверт

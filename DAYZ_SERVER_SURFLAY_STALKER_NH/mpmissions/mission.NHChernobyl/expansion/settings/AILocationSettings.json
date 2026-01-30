@@ -1,0 +1,362 @@
+{
+    "m_Version": 4,
+    "RoamingLocations": [
+        {
+            "Name": "Pripyat",
+            "Position": [
+                5028.5,
+                0.0,
+                17094.66015625
+            ],
+            "Radius": 1000.0,
+            "Type": "NameCityCapital",
+            "Enabled": 1
+        },
+        {
+            "Name": "Derebas",
+            "Position": [
+                5197.330078125,
+                0.0,
+                902.3400268554688
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Agroprom",
+            "Position": [
+                2789.469970703125,
+                0.0,
+                3961.3701171875
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bar100rengen (Rostok)",
+            "Position": [
+                5979.35009765625,
+                0.0,
+                5878.56982421875
+            ],
+            "Radius": 1000.0,
+            "Type": "NameCityCapital",
+            "Enabled": 1
+        },
+        {
+            "Name": "Yantar",
+            "Position": [
+                2853.419921875,
+                0.0,
+                6232.06005859375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Youpiter",
+            "Position": [
+                3877.77001953125,
+                0.0,
+                16620.560546875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Zenit",
+            "Position": [
+                2598.669921875,
+                0.0,
+                17941.3203125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Skadovsk",
+            "Position": [
+                2973.77001953125,
+                0.0,
+                19089.0
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "CHAES",
+            "Position": [
+                8489.73046875,
+                0.0,
+                15294.4599609375
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Yanov",
+            "Position": [
+                5296.9501953125,
+                0.0,
+                15715.1904296875
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Karyer",
+            "Position": [
+                2251.4599609375,
+                0.0,
+                11807.759765625
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Shahti",
+            "Position": [
+                3541.5,
+                0.0,
+                10957.2197265625
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Chernobl2 (Chernobl 2)",
+            "Position": [
+                7332.58984375,
+                0.0,
+                9356.5498046875
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Depo",
+            "Position": [
+                5547.18994140625,
+                0.0,
+                3106.409912109375
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Svalka",
+            "Position": [
+                8924.5,
+                0.0,
+                5113.83984375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "KPPNort (KPP Nort)",
+            "Position": [
+                5585.66015625,
+                0.0,
+                2184.139892578125
+            ],
+            "Radius": 100.0,
+            "Type": "FlatArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "KPPSouth (KPP South)",
+            "Position": [
+                5108.68017578125,
+                0.0,
+                553.469970703125
+            ],
+            "Radius": 100.0,
+            "Type": "FlatArea",
+            "Enabled": 1
+        },
+        {
+            "Name": "ATP",
+            "Position": [
+                5775.77978515625,
+                0.0,
+                1060.06005859375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "Lesopilka",
+            "Position": [
+                3904.64990234375,
+                0.0,
+                5031.759765625
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "Bunker",
+            "Position": [
+                5547.8701171875,
+                0.0,
+                6888.0
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "Krovososovka",
+            "Position": [
+                3376.22998046875,
+                0.0,
+                15926.080078125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "Novoshepilichi",
+            "Position": [
+                1895.6300048828126,
+                0.0,
+                18757.33984375
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Izumrudnoe",
+            "Position": [
+                928.5499877929688,
+                0.0,
+                18633.599609375
+            ],
+            "Radius": 100.0,
+            "Type": "Camp",
+            "Enabled": 1
+        },
+        {
+            "Name": "Drujba",
+            "Position": [
+                7055.1298828125,
+                0.0,
+                2692.260009765625
+            ],
+            "Radius": 100.0,
+            "Type": "Camp",
+            "Enabled": 1
+        },
+        {
+            "Name": "Dolina",
+            "Position": [
+                8516.6904296875,
+                0.0,
+                3175.2900390625
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Zmiev",
+            "Position": [
+                3764.949951171875,
+                0.0,
+                8375.0400390625
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Voronok",
+            "Position": [
+                7741.33984375,
+                0.0,
+                4053.25
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Sovhoz",
+            "Position": [
+                5614.56005859375,
+                0.0,
+                8314.009765625
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "Zvezda",
+            "Position": [
+                2040.6600341796876,
+                0.0,
+                9306.3203125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "Balota",
+            "Position": [
+                2864.659912109375,
+                0.0,
+                2392.929931640625
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        },
+        {
+            "Name": "Loschina",
+            "Position": [
+                6680.56982421875,
+                0.0,
+                815.8200073242188
+            ],
+            "Radius": 200.0,
+            "Type": "NameVillage",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_Boat_",
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2",
+        "Land_Train_Wagon_Box"
+    ],
+    "NoGoAreas": []
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type> <!-- TEST -->
+    <territory color="4291611852">
+        <zone name="Rest" smin="0" smax="0" dmin="1" dmax="1" x="10216.1" z="4083.46" r="50"/>	
+    </territory>
+</territory-type>

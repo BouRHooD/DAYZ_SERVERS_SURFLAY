@@ -1,0 +1,39 @@
+01:12:38.764 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) joined the party "Surflay" (id=0 ownerUID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= ownerName=BouRHooD)
+01:12:38.764 [Expansion Quests] Initialize quest system on the connected client with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.766 [Expansion Quests] Loaded existing player quest data for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.767 [Expansion Quests] Loaded existing group quest data for group with ID=0
+01:12:38.767 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.767 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.768 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.768 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.768 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.768 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.768 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.769 [Expansion Quests] Sending ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= quest configs to client for player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:38.770 [Expansion Quests] Sending player quest data for 4 quests to player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=
+01:12:39.747 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+01:16:38.650 [Market] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) has bought expansion_ammo_taser x1 (42e18870) from the trader "Sidor (Сидорович)" in market zone "World Trader Zone" (pos=<7500.000000, 0.000000, 7500.000000>) for a price of 1.
+01:17:07.245 [AI Patrol 00002] Loaded 1 persistent KPP South (Shamans) bots at <5078.655762, 106.555008, 630.082642>
+01:17:07.245 [AI Patrol 00002] Global patrol count: 1
+01:17:07.246 [AI Patrol 00002] Global Expansion AI count: 2 alive, 0 deceased
+01:17:07.246 [AI Patrol 00002] Survivor category patrol count: 1
+01:18:12.417 [AI Object Patrol 00005] Spawning 1 West bots at <7016.743652, 111.643120, 5447.676270>
+01:18:12.434 [AI Object Patrol 00005] Global patrol count: 2
+01:18:12.434 [AI Object Patrol 00005] Global Expansion AI count: 3 alive, 0 deceased
+01:18:12.434 [AI Object Patrol 00005] MilitaryStatic category patrol count: 1
+01:18:13.106 [AI Object Patrol 00006] Spawning 3 West bots at <7075.856445, 107.614891, 5448.486328>
+01:18:13.127 [AI Object Patrol 00006] Global patrol count: 3
+01:18:13.127 [AI Object Patrol 00006] Global Expansion AI count: 4 alive, 0 deceased
+01:18:13.127 [AI Object Patrol 00006] MilitaryRoaming category patrol count: 1
+01:18:21.783 [AI Object Patrol 00001] Spawning 2 East bots at <5410.827148, 107.515114, 5665.239258>
+01:18:21.811 [AI Object Patrol 00001] Global patrol count: 4
+01:18:21.811 [AI Object Patrol 00001] Global Expansion AI count: 7 alive, 0 deceased
+01:18:21.811 [AI Object Patrol 00001] HelicopterWreck category patrol count: 1
+01:20:29.786 [AI Object Patrol 00001] Despawning 2 East bots (spawn position <5410.827148, 107.515114, 5665.239258>, 0/2 deceased)
+01:20:29.787 [AI Object Patrol 00001] Global patrol count: 3
+01:20:29.787 [AI Object Patrol 00001] Global Expansion AI count: 6 alive, 0 deceased
+01:20:29.787 [AI Object Patrol 00001] HelicopterWreck category patrol count: 0
+01:20:37.285 [Party] Player "BouRHooD" (id=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=) left the party "Surflay" (id=0 ownerUID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM= ownerName=BouRHooD)
+01:20:37.285 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:20:37.285 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.
+01:20:37.286 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=ZxauXa6H7Kv31_Pims5iqY6kifCgPGV2uaTOoZ_iSZM=.

@@ -1,0 +1,7 @@
+{
+    "ConfigVersion": "1",
+    "HatchDigTime": 20,
+    "UpgradeDigTime": 20,
+    "UpgradeBuilTime": 20,
+    "BaseBuildToolDamage": 25
+}

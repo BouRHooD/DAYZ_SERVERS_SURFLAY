@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+		<territory color="1136576269">  <!-- Start of Test Spawns -->
+		<zone name="InfectedElderBloodsucker" smin="0" smax="0" dmin="1" dmax="1" x="7140.349121" z="5926.498047" r="0"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedBurer" smin="0" smax="0" dmin="1" dmax="1" x="4317.644531" z="5527.357910" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedFaction" smin="0" smax="0" dmin="4" dmax="6" x="0.0" z="0.0" r="50"/>
+	</territory>
+	<territory color="1136576269"> <!-- Start of Cordon -->
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="4" dmax="5" x="3826.1181640625" z="1194.2955322265626" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="4" x="3723.549560546875" z="1468.305419921875" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedNovice" smin="0" smax="0" dmin="2" dmax="3" x="3711.611572265625" z="1287.80224609375" r="50"/>
+	</territory>
+		<territory color="1136576269">
+		<zone name="InfectedNovice" smin="0" smax="0" dmin="2" dmax="4" x="3744.33935546875" z="1862.8856201171876" r="50"/>
+	</territory>
+		<territory color="1136576269"> <!-- Start of Great Swamp -->
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="4" x="2542.92041015625" z="1309.1822509765626" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="3" dmax="5" x="1983.8460693359376" z="1147.19921875" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="2424.28759765625" z="907.4693603515625" r="120"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedCiv" smin="0" smax="0" dmin="2" dmax="3" x="2660.649658203125" z="881.1077270507813" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedNovice" smin="0" smax="0" dmin="2" dmax="3" x="2757.829833984375" z="1496.9307861328126" r="50"/>
+	</territory>
+	<territory color="1136576269">
+		<zone name="InfectedNovice" smin="0" smax="0" dmin="3" dmax="4" x="2162.77734375" z="1056.145751953125" r="50"/>
+	</territory>
+		<territory color="1136576269">
+		<zone name="InfectedIzlom" smin="0" smax="0" dmin="1" dmax="1" x="2567.713134765625" z="1341.1175537109376" r="50"/>
+	</territory>
+		<territory color="1136576269">
+		<zone name="InfectedSnork" smin="0" smax="0" dmin="1" dmax="2" x="2074.897216796875" z="1348.200439453125" r="50"/>
+	</territory>
+		<territory color="1136576269">
+		<zone name="InfectedYoungBloodsucker" smin="0" smax="0" dmin="1" dmax="1" x="2404.641357421875" z="1119.37939453125" r="50"/>
+	</territory>	
+</territory-type>
