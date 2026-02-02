@@ -9,3 +9,7 @@ log/
 *.log.*
 *.log.txt
 *Log_*.txt
+DayZServer_*.ADM
+DayZServer_*.RPT
+DataCache/cache.ch
+ExTrace_*.csv
