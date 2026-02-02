@@ -88,20 +88,6 @@ for /d %%D in (@*) do (
 )
 echo Total @ folders copied: %COUNT_AT%
 
-:: Copy all folders containing SERVER in their name
-echo.
-echo ========================================
-echo Copying folders with SERVER in name...
-echo ========================================
-set COUNT_SERVER=0
-for /d %%D in (*SERVER*) do (
-    echo Copying: %%D
-    xcopy "%%D" "%BACKUP_DIR%\%%D\" /E /I /H /Y /Q
-    set /a COUNT_SERVER+=1
-    echo [OK] %%D copied successfully
-)
-echo Total SERVER folders copied: %COUNT_SERVER%
-
 :: Summary
 echo.
 echo ========================================
@@ -116,7 +102,6 @@ echo - profile folder
 echo - serverDZ.cfg
 echo - serverStart.bat
 echo - %COUNT_AT% folders with @ in name
-echo - %COUNT_SERVER% folders with SERVER in name
 echo ========================================
 echo.
 
