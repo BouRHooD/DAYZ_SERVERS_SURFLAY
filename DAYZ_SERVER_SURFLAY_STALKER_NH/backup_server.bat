@@ -30,8 +30,12 @@ if not exist "%BACKUP_DIR%" (
 echo.
 echo [1/4] Copying mpmissions\mission.NHChernobyl folder (excluding storage_1)...
 if exist "mpmissions\mission.NHChernobyl" (
-    xcopy "mpmissions\mission.NHChernobyl" "%BACKUP_DIR%\mpmissions\mission.NHChernobyl\" /E /I /H /Y /Q /EXCLUDE:exclude_storage.txt
-    echo [OK] mpmissions\mission.NHChernobyl copied successfully (storage_1 excluded)
+    robocopy "mpmissions\mission.NHChernobyl" "%BACKUP_DIR%\mpmissions\mission.NHChernobyl" /E /XD storage_1 /R:0 /W:0 /NFL /NDL
+    if !errorlevel! leq 7 (
+        echo [OK] mpmissions\mission.NHChernobyl copied successfully (storage_1 excluded^)
+    ) else (
+        echo [ERROR] Failed to copy mpmissions\mission.NHChernobyl
+    )
 ) else (
     echo [WARNING] mpmissions\mission.NHChernobyl folder not found
 )
