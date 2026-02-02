@@ -1,0 +1,10 @@
+# Log files
+*.log
+
+# Log directories
+logs/
+log/
+
+# Specific log file patterns
+*.log.*
+*.log.txt
