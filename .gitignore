@@ -8,3 +8,4 @@ log/
 # Specific log file patterns
 *.log.*
 *.log.txt
+*Log_*.txt
