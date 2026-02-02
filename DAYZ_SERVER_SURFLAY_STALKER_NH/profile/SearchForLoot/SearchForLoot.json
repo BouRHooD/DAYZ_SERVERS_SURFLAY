@@ -1,0 +1,254 @@
+{
+    "EnableDebug": 0,
+    "Rarity": 50.0,
+    "InitialCooldown": 400,
+    "XPGain": 1,
+    "SoundEnabled": 1,
+    "DisableNotifications": 0,
+    "NotificationHeading": "Searching",
+    "NotificationText": "You found something...",
+    "NotificationText2": "Seems to be empty...",
+    "MaxHealthCoef": 1.0,
+    "SFLBuildings": [
+        {
+            "name": "Vehicle",
+            "buildings": [
+                "Land_uaz_1"
+            ]
+        },
+		{
+            "name": "Civilian",
+            "buildings": [
+                ""
+            ]
+        },
+        {
+            "name": "Industrial",
+            "buildings": [
+                "Land_CementWorks_Hall2_Grey"
+            ]
+        },
+        {
+            "name": "Farm",
+            "buildings": [
+                "Land_Barn_Brick1",
+            ]
+        },
+        {
+            "name": "Hunting",
+            "buildings": [
+                "Land_Village_Pub",
+            ]
+        },
+        {
+            "name": "Police",
+            "buildings": [
+                "Land_Village_PoliceStation",
+            ]
+        },
+        {
+            "name": "Medical",
+            "buildings": [
+                "Land_Village_HealthCare",
+            ]
+        },
+        {
+            "name": "Military",
+            "buildings": [
+                "Land_Bunker1_Double",
+            ]
+        }
+    ],
+    "SFLLootCategory": [
+		{
+			"name": "Vehicle_Food",
+			"rarity": 50.0,
+			"loot": [
+				"SodaCan_Cola"
+			]
+		},
+		{
+			"name": "Vehicle_Clothing",
+			"rarity": 50.0,
+			"loot": [
+				"WorkingGloves_Yellow"
+			]
+		},
+		{
+			"name": "Vehicle_Tools",
+			"rarity": 50.0,
+			"loot": [
+				"CanisterGasoline",
+				"SparkPlug",
+				"CarBattery"
+			]
+		},
+        {
+            "name": "Civilian_Food",
+            "rarity": 50.0,
+            "loot": [
+                "Chips"
+            ]
+        },
+        {
+            "name": "Civilian_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "BeanieHat_Beige"
+            ]
+        },
+        {
+            "name": "Civilian_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Screwdriver"
+            ]
+        },
+        {
+            "name": "Industrial_Food",
+            "rarity": 50.0,
+            "loot": [
+                "HumanSteakMeat"
+            ]
+        },
+        {
+            "name": "Industrial_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "BalaclavaMask_Beige"
+            ]
+        },
+        {
+            "name": "Industrial_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Wrench"
+            ]
+        },
+        {
+            "name": "Farm_Food",
+            "rarity": 50.0,
+            "loot": [
+                "BakedBeansCan"
+            ]
+        },
+        {
+            "name": "Farm_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "WoolGloves_Tan"
+            ]
+        },
+        {
+            "name": "Farm_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "CanisterGasoline"
+            ]
+        },
+        {
+            "name": "Hunting_Food",
+            "rarity": 50.0,
+            "loot": [
+                "HumanSteakMeat"
+            ]
+        },
+        {
+            "name": "Hunting_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "Balaclava3Holes_Beige"
+            ]
+        },
+        {
+            "name": "Hunting_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "SewingKit"
+            ]
+        },
+        {
+            "name": "Police_Food",
+            "rarity": 50.0,
+            "loot": [
+                "BakedBeansCan"
+            ]
+        },
+        {
+            "name": "Police_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "PrisonUniformPants"
+            ]
+        },
+        {
+            "name": "Police_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "WeaponCleaningKit"
+            ]
+        },
+        {
+            "name": "Medical_Food",
+            "rarity": 50.0,
+            "loot": [
+                "VitaminBottle"
+            ]
+        },
+        {
+            "name": "Medical_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "MedicalScrubsShirt_Blue"
+            ]
+        },
+        {
+            "name": "Medical_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "VitaminBottle"
+            ]
+        },
+        {
+            "name": "Military_Food",
+            "rarity": 50.0,
+            "loot": [
+                "Canteen"
+            ]
+        },
+        {
+            "name": "Military_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "TacticalGloves_Beige"
+            ]
+        },
+        {
+            "name": "Military_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_45ACP"
+            ]
+        }
+    ],
+    "SFLProxyCategory": [
+        {
+            "name": "Food",
+            "proxies": [
+                "static_kitchenstove_elec"
+            ]
+        },
+        {
+            "name": "Clothing",
+            "proxies": [
+                "static_school_cage"
+            ]
+        },
+        {
+            "name": "Tools",
+            "proxies": [
+                "static_misc_boxwooden"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,693 @@
+{
+    "EnableDebug": 0,
+    "Rarity": 50.0,
+    "InitialCooldown": 400,
+    "XPGain": 1,
+    "SoundEnabled": 1,
+    "DisableNotifications": 0,
+    "NotificationHeading": "Searching",
+    "NotificationText": "You found something...",
+    "NotificationText2": "Seems to be empty...",
+    "MaxHealthCoef": 1.0,
+    "SFLBuildings": [
+        {
+            "name": "Civilian",
+            "buildings": [
+                "Land_Village_Pub",
+                "Land_House_1W01",
+                "Land_House_1W02",
+                "Land_House_1W03",
+                "Land_House_1W04",
+                "Land_House_1W05",
+                "Land_House_1W06",
+                "Land_House_1W07",
+                "Land_House_1W08",
+                "Land_House_1W09",
+                "Land_House_1W10",
+                "Land_House_2W01",
+                "Land_House_2W02",
+                "Land_House_2W03",
+                "Land_House_2W04",
+                "Land_House_2W05",
+                "Land_Shed_Ind02",
+                "Land_Shed_W01",
+                "Land_Shed_W02",
+                "Land_Shed_W03",
+                "Land_Shed_W4",
+                "Land_Garage_W",
+                "Land_Barn_W_01",
+                "Land_Barn_W_02"
+            ]
+        },
+        {
+            "name": "Industrial",
+            "buildings": [
+                "Land_Factory_Main",
+                "Land_Ind_SawMillPen",
+                "Land_Ind_Workshop01",
+                "Land_Ind_Pec_03a",
+                "Land_Ind_Stack_Big",
+                "Land_Ind_Transmitter_Tower",
+                "Land_Ind_Oil_Pump_EP1",
+                "Land_Ind_Quarry",
+                "Land_Repair_center",
+                "Land_Hangar_2",
+                "Land_Rail_Station_Big",
+                "Land_Rail_Warehouse_Small",
+                "Land_Ind_Tank_big",
+                "Land_Shed_Ind02",
+                "Land_Ind_SiloVelke_01",
+                "Land_Powerstation",
+                "Land_Tovarna1",
+                "Land_Tovarna2",
+                "Land_A_Crane_02a",
+                "Land_Crane_Con"
+            ]
+        },
+        {
+            "name": "Farm",
+            "buildings": [
+                "Land_Barn_W_01",
+                "Land_Barn_W_02",
+                "Land_Barn_Metal",
+                "Land_Stodola_old_open",
+                "Land_Stodola3",
+                "Land_Stodola_open",
+                "Land_Kulna",
+                "Land_Shed_W01",
+                "Land_Shed_W02",
+                "Land_Shed_W03",
+                "Land_Shed_W4",
+                "Land_vesnice_farma03p1"
+            ]
+        },
+        {
+            "name": "Hunting",
+            "buildings": [
+                "Land_ruin_01",
+                "Land_Hut06",
+                "Land_Booth_Wood",
+                "Land_Camp_House_brown",
+                "Land_Camp_House_red",
+                "Land_Camp_House_white",
+                "Land_Misc_deerstand",
+                "Land_posed"
+            ]
+        },
+        {
+            "name": "Police",
+            "buildings": [
+                "Land_A_Office01",
+                "Land_A_Office02",
+                "Land_Mil_Guardhouse",
+                "Land_Guard_House",
+                "Land_Mil_Barracks_i"
+            ]
+        },
+        {
+            "name": "Medical",
+            "buildings": [
+                "Land_A_Hospital",
+                "Land_Hospital1",
+                "Land_Hospital2",
+                "Land_A_BuildingWIP",
+                "Land_Misc_Cargo1D"
+            ]
+        },
+        {
+            "name": "Military_Stalker",
+            "buildings": [
+                "Land_Mil_Barracks",
+                "Land_Mil_Barracks_i",
+                "Land_Mil_House",
+                "Land_Mil_Guardhouse",
+                "Land_posed",
+                "Land_A_TVTower_Base",
+                "Land_Mil_Hangar",
+                "Land_Mil_Barracks_L",
+                "Land_Vysilac_FM",
+                "Land_Mil_ControlTower",
+                "Land_Army_hut_int",
+                "Land_Misc_Cargo1D",
+                "Land_Misc_Cargo2C",
+                "Land_Mil_Tent_Big1",
+                "Land_Mil_Tent_Big2"
+            ]
+        },
+        {
+            "name": "Stalker_Zone",
+            "buildings": [
+                "Land_Ind_PowerStation",
+                "Land_A_TVTower_Base",
+                "Land_ChernobylReactor",
+                "Land_Ind_SiloVelke_01",
+                "Land_Ind_Stack_Big",
+                "Land_Ind_Transmitter_Tower",
+                "Land_Hangar_2",
+                "Land_Tovarna1",
+                "Land_Tovarna2",
+                "Land_A_Crane_02a"
+            ]
+        },
+        {
+            "name": "Anomaly_Areas",
+            "buildings": [
+                "Land_ruin_01",
+                "Land_Misc_PowerStation",
+                "Land_A_BuildingWIP",
+                "Land_Underground_Entrance"
+            ]
+        }
+    ],
+    "SFLLootCategory": [
+        {
+            "name": "Civilian_Food",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "Pajka",
+                "UnknownFoodCan",
+                "Zagorky",
+                "PowderedMilk",
+                "BoxCerealCrunchin",
+                "Apple",
+                "BakedBeansCan",
+                "CatFoodCan",
+                "Chips",
+                "Crackers",
+                "SodaCan_Cola",
+                "SodaCan_Kvass",
+                "Rice"
+            ]
+        },
+        {
+            "name": "Civilian_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CivilianBelt",
+                "Rope",
+                "PetrolLighter",
+                "AthleticShoes_Blue",
+                "BalaclavaMask_Blue",
+                "Paper",
+                "Raincoat_Red",
+                "ShortJeans_Blue",
+                "SlacksPants_LightGrey",
+                "BeanieHat_Beige",
+                "GasMask",
+                "GP5GasMask",
+                "Heatpack"
+            ]
+        },
+        {
+            "name": "Civilian_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Paper",
+                "PetrolLighter",
+                "Rope",
+                "Ammo_22",
+                "Ammo_12gaSlug",
+                "KitchenKnife",
+                "KitchenTimer",
+                "SteakKnife",
+                "Whetstone",
+                "Screwdriver",
+                "Flashlight",
+                "Battery9V",
+                "PersonalRadio"
+            ]
+        },
+        {
+            "name": "Industrial_Food",
+            "rarity": 45.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BoxCerealCrunchin",
+                "Chips",
+                "BakedBeansCan",
+                "Crackers",
+                "GreenBellPepper",
+                "Honey",
+                "Rice",
+                "Marmalade"
+            ]
+        },
+        {
+            "name": "Industrial_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Green",
+                "MotoHelmet_Lime",
+                "Netting",
+                "Fabric",
+                "Headtorch_Grey",
+                "RadarCap_Black",
+                "WorkingGloves_Beige",
+                "ZmijovkaCap_Black",
+                "BalaclavaMask_Beige",
+                "GasMask",
+                "GP5GasMask"
+            ]
+        },
+        {
+            "name": "Industrial_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "NailBox",
+                "MetalWire",
+                "ElectronicRepairKit",
+                "EpoxyPutty",
+                "Fabric",
+                "Headtorch_Grey",
+                "Nail",
+                "Screwdriver",
+                "WorkingGloves_Yellow",
+                "Wrench",
+                "Pliers",
+                "Hacksaw",
+                "Crowbar"
+            ]
+        },
+        {
+            "name": "Farm_Food",
+            "rarity": 50.0,
+            "loot": [
+                "Apple",
+                "Crackers",
+                "GreenBellPepper",
+                "Honey",
+                "LactariusMushroom",
+                "Lunchmeat",
+                "MacrolepiotaMushroom",
+                "Marmalade",
+                "Pajka",
+                "SodaCan_Fronta",
+                "SodaCan_Cola",
+                "SodaCan_Kvass",
+                "BakedBeansCan",
+                "Pumpkin",
+                "Potato"
+            ]
+        },
+        {
+            "name": "Farm_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CargoPants_Beige",
+                "CowboyHat_Brown",
+                "Fabric",
+                "DuctTape",
+                "FaceCover_Improvised",
+                "Headtorch_Black",
+                "LeatherSewingKit",
+                "Paper",
+                "BeanieHat_Black",
+                "WorkingGloves_Beige",
+                "Rope",
+                "WoolGloves_Tan"
+            ]
+        },
+        {
+            "name": "Farm_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaSlug",
+                "Ammo_357",
+                "BarbedWire",
+                "DuctTape",
+                "Hammer",
+                "Broom",
+                "LeatherSewingKit",
+                "Nail",
+                "Rope",
+                "MediumGasCanister",
+                "CanisterGasoline",
+                "Hoe",
+                "Shovel"
+            ]
+        },
+        {
+            "name": "Hunting_Food",
+            "rarity": 50.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BoxCerealCrunchin",
+                "Chips",
+                "BakedBeansCan",
+                "Crackers",
+                "GreenBellPepper",
+                "Honey",
+                "TunaCan",
+                "TacticalBaconCan"
+            ]
+        },
+        {
+            "name": "Hunting_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CowboyHat_black",
+                "DryBag_Blue",
+                "Armband_BabyDeer",
+                "Armband_Bear",
+                "Headtorch_Grey",
+                "ChernarusMap",
+                "Heatpack",
+                "HunterPants_Autumn",
+                "HuntingJacket_Autumn",
+                "HuntingKnife",
+                "Ushanka_Black",
+                "Whetstone",
+                "Balaclava3Holes_Beige"
+            ]
+        },
+        {
+            "name": "Hunting_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "OrienteeringCompass",
+                "CanOpener",
+                "CookingStand",
+                "PUScopeOptic",
+                "Headtorch_Grey",
+                "ChernarusMap",
+                "Compass",
+                "Flashlight",
+                "Heatpack",
+                "HuntingKnife",
+                "Matchbox",
+                "Whetstone",
+                "SewingKit",
+                "Binoculars"
+            ]
+        },
+        {
+            "name": "Police_Food",
+            "rarity": 50.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BoxCerealCrunchin",
+                "Chips",
+                "BakedBeansCan",
+                "TacticalBaconCan",
+                "TunaCan",
+                "Crackers",
+                "SodaCan_Cola"
+            ]
+        },
+        {
+            "name": "Police_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "PoliceCap",
+                "PolicePants",
+                "Ammo_40mm_Smoke_Red",
+                "PoliceJacket",
+                "PoliceJacketOrel",
+                "AviatorGlasses",
+                "HandcuffKeys",
+                "Handcuffs",
+                "PoliceVest",
+                "PrisonUniformJacket",
+                "PrisonUniformPants",
+                "TacticalGloves_Black"
+            ]
+        },
+        {
+            "name": "Police_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaPellets",
+                "Ammo_40mm_Smoke_Red",
+                "Rangefinder",
+                "Armband_LivoniaPolice",
+                "AviatorGlasses",
+                "HandcuffKeys",
+                "Handcuffs",
+                "UniversalLight",
+                "WeaponCleaningKit",
+                "Binoculars",
+                "PersonalRadio"
+            ]
+        },
+        {
+            "name": "Medical_Food",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "PowderedMilk",
+                "BloodBagEmpty",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantSpray",
+                "Morphine",
+                "NioshFaceMask",
+                "PainkillerTablets",
+                "SalineBag",
+                "StartKitIV",
+                "VitaminBottle",
+                "Epinephrine"
+            ]
+        },
+        {
+            "name": "Medical_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "SurgicalGloves_Blue",
+                "Armband_White",
+                "MedicalScrubsPants_White",
+                "SurgicalMask",
+                "FirstAidKit",
+                "DisinfectantSpray",
+                "LabCoat",
+                "MouthRag",
+                "MedicalScrubsHat_Blue",
+                "MedicalScrubsPants_Blue",
+                "MedicalScrubsShirt_Blue",
+                "NBCHoodGray",
+                "NBCJacketGray"
+            ]
+        },
+        {
+            "name": "Medical_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "BloodBagEmpty",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantSpray",
+                "Morphine",
+                "MouthRag",
+                "FirstAidKit",
+                "PainkillerTablets",
+                "Pen_Black",
+                "SalineBag",
+                "StartKitIV",
+                "SurgicalGloves_Green",
+                "VitaminBottle",
+                "Epinephrine",
+                "Thermometer"
+            ]
+        },
+        {
+            "name": "Military_Food",
+            "rarity": 45.0,
+            "loot": [
+                "UnknownFoodCan",
+                "TacticalBaconCan",
+                "BoxCerealCrunchin",
+                "Chips",
+                "BakedBeansCan",
+                "TunaCan",
+                "Crackers",
+                "Rice",
+                "Honey",
+                "Canteen",
+                "PowderedMilk"
+            ]
+        },
+        {
+            "name": "Military_Clothing",
+            "rarity": 45.0,
+            "loot": [
+                "MilitaryBelt",
+                "MilitaryBeret_CDF",
+                "CombatKnife",
+                "Flag_Chernarus",
+                "MilitaryBoots_Beige",
+                "NVGHeadstrap",
+                "OMNOGloves_Brown",
+                "NylonKnifeSheath",
+                "OfficerHat",
+                "TTSKOPants",
+                "TTsKOJacket_Camo",
+                "TacticalGloves_Beige",
+                "GasMask",
+                "GP5GasMask",
+                "NBCHoodGray",
+                "NBCJacketGray",
+                "NBCPantsGray"
+            ]
+        },
+        {
+            "name": "Military_Tools",
+            "rarity": 45.0,
+            "loot": [
+                "CombatKnife",
+                "Flag_Chernarus",
+                "LandMineTrap",
+                "M18SmokeGrenade_White",
+                "MilitaryBelt",
+                "NylonKnifeSheath",
+                "Rangefinder",
+                "Ammo_545x39",
+                "Ammo_762x54",
+                "Ammo_9x19",
+                "Ammo_45ACP",
+                "Binoculars",
+                "PersonalRadio",
+                "NVGoggles",
+                "Ammo_762x39"
+            ]
+        },
+        {
+            "name": "Stalker_Zone_Loot",
+            "rarity": 30.0,
+            "loot": [
+                "GasMask",
+                "GP5GasMask",
+                "NBCHoodGray",
+                "NBCJacketGray",
+                "NBCPantsGray",
+                "NBCBootsGray",
+                "NVGoggles",
+                "Rangefinder",
+                "PersonalRadio",
+                "Ammo_545x39",
+                "Ammo_762x54",
+                "Ammo_9x19",
+                "AKM",
+                "AK74",
+                "SVD",
+                "Binoculars",
+                "CombatKnife",
+                "Flashlight",
+                "Battery9V"
+            ]
+        },
+        {
+            "name": "Anomaly_Artifacts",
+            "rarity": 20.0,
+            "loot": [
+                "Battery9V",
+                "Heatpack",
+                "Chemlight_Blue",
+                "Chemlight_Green",
+                "Chemlight_Red",
+                "Chemlight_Yellow",
+                "ElectronicRepairKit",
+                "PUScopeOptic",
+                "KazuarOptic",
+                "NVGoggles",
+                "Rangefinder"
+            ]
+        }
+    ],
+    "SFLProxyCategory": [
+        {
+            "name": "Food",
+            "proxies": [
+                "static_kitchen_unit_a_dz",
+                "static_shelf",
+                "static_shelf_1side",
+                "static_skrin_bar",
+                "static_fridge",
+                "static_kitchenstove_elec",
+                "static_barrel1",
+                "static_crate_wood"
+            ]
+        },
+        {
+            "name": "Clothing",
+            "proxies": [
+                "static_washing_machine",
+                "static_tent_strecher",
+                "static_locker_open_v3",
+                "static_locker_open_v2",
+                "static_locker_closed_v2",
+                "static_matress_white_bent",
+                "static_locker_closed_blue_v1",
+                "static_case_bedroom_b",
+                "static_case_cans_b",
+                "static_class_case_b_open",
+                "static_class_case_a_open",
+                "static_class_case_a_closed",
+                "static_foldingbed_open",
+                "static_vojenska_palanda",
+                "static_locker_closed_v1",
+                "static_case_d",
+                "static_dhangar_brownskrin",
+                "static_case_a",
+                "static_case_a_open",
+                "static_almara_open",
+                "static_almara",
+                "static_dhangar_brownskrin_old",
+                "static_pipe-big",
+                "static_school_cage",
+                "static_box_c",
+                "static_metalcrate"
+            ]
+        },
+        {
+            "name": "Tools",
+            "proxies": [
+                "static_tent_gunrack",
+                "static_lekarnicka",
+                "static_medical_table",
+                "static_wheel_cart_dz",
+                "static_locker_closed_v3",
+                "static_teacher_desk",
+                "static_lab_teacher_bench",
+                "static_metalcrate_02",
+                "static_hospital_transport_bed",
+                "static_classroom_case_a",
+                "static_shelfs_small",
+                "static_lab_bench",
+                "static_truck_01_aban_1_lod1parts_fire",
+                "static_class_case_b_closed",
+                "static_workbench_dz",
+                "static_metalcrate",
+                "static_workbench",
+                "static_metalcase_02",
+                "static_metalcase_01",
+                "static_locker_open_blue_v2",
+                "static_library_a",
+                "static_office_table_a",
+                "static_bucket",
+                "static_box_c_multi",
+                "static_rack_dz",
+                "static_box_c",
+                "static_tools_racking_dz",
+                "static_library_a_open",
+                "static_case_bedroom_a",
+                "static_desk_office",
+                "static_table_drawer",
+                "static_shelf_dz",
+                "static_conference_table_a",
+                "static_koz",
+                "static_pipe-small",
+                "static_phonebox",
+                "static_tent_boxwooden",
+                "static_table_umakart",
+                "static_misc_boxwooden",
+                "static_barrel1",
+                "static_barrel4"
+            ]
+        }
+    ]
+}

@@ -4,17 +4,17 @@
     "NPCLocations": [
         {
             "name": "npc1",
-            "npcid": 0,
-            "npcpos": "",
-            "npcclass": "",
+            "npcid": 1,
+            "npcpos": "5411.292969 108.661896 3100.163086",
+            "npcclass": "SFP_Dikoy_BM6Knife",
             "npcloadout": [
                 ""
             ],
             "npcitem": "",
             "npcpose": 1,
-            "triggerpos": "4546 71 1814",
-            "triggermins": "-2 -1 -2",
-            "triggermaxs": "2 1 2",
+            "triggerpos": "5411.292969 108.661896 3100.163086",
+            "triggermins": "-100 -100 -100",
+            "triggermaxs": "100 100 100",
             "triggerradius": 0.0,
             "triggercooldown": 30,
             "sounds": [
@@ -28,17 +28,17 @@
         },
         {
             "name": "npc2",
-            "npcid": 0,
-            "npcpos": "",
-            "npcclass": "",
+            "npcid": 2,
+            "npcpos": "4537.667969 104.443794 1826.549316",
+            "npcclass": "SFP_Dikoy_BM6Knife",
             "npcloadout": [
                 ""
             ],
             "npcitem": "",
             "npcpose": 2,
-            "triggerpos": "4864 123 6671",
-            "triggermins": "-2 -1 -2",
-            "triggermaxs": "2 1 2",
+            "triggerpos": "4537.667969 104.443794 1826.549316",
+            "triggermins": "-100 -100 -100",
+            "triggermaxs": "100 100 100",
             "triggerradius": 0.0,
             "triggercooldown": 30,
             "sounds": [
@@ -53,17 +53,17 @@
         },
         {
             "name": "npc3",
-            "npcid": 0,
-            "npcpos": "",
-            "npcclass": "",
+            "npcid": 3,
+            "npcpos": "4547.667969 104.443794 1826.549316",
+            "npcclass": "SFP_Dikoy_BM6Knife",
             "npcloadout": [
                 ""
             ],
             "npcitem": "",
             "npcpose": 3,
-            "triggerpos": "2453 39 6209",
-            "triggermins": "2 -1 -2",
-            "triggermaxs": "2 1 2",
+            "triggerpos": "4547.667969 104.443794 1826.549316",
+            "triggermins": "-100 -100 -100",
+            "triggermaxs": "100 100 100",
             "triggerradius": 0.0,
             "triggercooldown": 30,
             "sounds": [
@@ -85,6 +85,20 @@
                 "Mag_AKM_30Rnd",
                 "AK_WoodHndgrd",
                 "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_MakarovIJ70",
+            "weapon": "MakarovIJ70",
+            "attachments": [
+                "Mag_AKM_30Rnd"
+            ]
+        },
+        {
+            "name": "Predefined_SawedoffIzh43Shotgun",
+            "weapon": "SawedoffIzh43Shotgun",
+            "attachments": [
+                "Mag_AKM_30Rnd"
             ]
         },
         {

@@ -1,0 +1,490 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-1-25_19-8-40
+====================================================================================
+19:8:40 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+19:8:40 | [PermissionManager] Perm (FreeCamera) has been registered!
+19:8:40 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuServerManager) has been registered!
+19:8:40 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+19:8:40 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+19:8:40 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+19:8:40 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+19:8:40 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+19:8:40 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+19:8:40 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+19:8:40 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+19:8:40 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+19:8:40 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuBansManager) has been registered!
+19:8:40 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+19:8:40 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+19:8:40 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+19:8:40 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+19:8:40 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+19:8:40 | [PermissionManager] Adding Super Admin (76561198116299684)
+19:8:40 | [PermissionManager] Adding Super Admin (76561198124555828)
+19:8:40 | [PermissionManager] Loaded UserGroups.json
+19:8:40 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+19:8:40 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+19:8:40 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+19:8:40 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+19:8:40 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+19:8:40 | Building Sets Loaded: 1
+19:8:40 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+19:8:40 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:9:37 | Player "BouRHooD" (steamId=76561198116299684) connected to server!
+19:9:59 | "BouRHooD" (steamid=76561198116299684) gave godmode to (steamid=76561198116299684)
+19:10:0 | "BouRHooD" (steamid=76561198116299684) healed player (steamid=76561198116299684)
+19:10:13 | "76561198116299684" (steamid=76561198116299684) teleported to (pos=<5255.359863, 100.436783, 857.210999>)
+19:10:13 | "BouRHooD": (steamid=76561198116299684) teleported to (pos=5255.36,0,857.211)
+19:10:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5262.164063, 102.126167, 850.185852>)
+19:10:16 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5266.709473, 103.487198, 845.590454>)
+19:10:18 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5243.309082, 99.529991, 865.502502>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5227.376953, 99.530006, 873.204224>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.617188, 99.529999, 881.570068>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.534180, 99.529999, 881.631714>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.458496, 99.529991, 881.689026>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.391602, 99.530006, 881.740540>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.324219, 99.530006, 881.793152>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.249023, 99.529999, 881.852112>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.175781, 99.529999, 881.909912>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5205.011230, 99.529999, 889.510193>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5205.021973, 99.529999, 889.572144>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5205.006348, 99.529991, 889.648743>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5204.920898, 99.529991, 889.719116>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5204.687988, 99.529991, 889.900146>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5204.703613, 99.529984, 889.896484>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5204.723633, 99.529984, 889.888062>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.692871, 99.529991, 897.511719>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.723145, 99.530014, 897.490112>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.447754, 99.529999, 897.708191>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.425293, 99.529999, 897.735046>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.381348, 99.529991, 897.777344>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5184.471680, 99.529999, 905.372314>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5184.474121, 99.529991, 905.365662>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5184.289063, 99.529991, 905.498962>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5174.241211, 99.529984, 913.219543>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5174.229492, 99.529999, 913.220947>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5174.017090, 99.529999, 913.362915>)
+19:10:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5173.983887, 99.529999, 913.379028>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5173.970703, 99.529991, 913.383728>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5173.913574, 99.529984, 913.422363>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5173.836426, 99.529991, 913.475403>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5173.773926, 99.529984, 913.519897>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.890625, 99.529999, 921.106079>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.896484, 99.529991, 921.097961>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.714355, 99.529991, 921.229980>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.706055, 99.529999, 921.228699>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.692871, 99.530006, 921.233398>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.675781, 99.529999, 921.240906>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.651855, 99.530006, 921.253235>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.609375, 99.529999, 921.282227>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5161.416992, 99.529991, 922.958984>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5159.528320, 99.529999, 924.407043>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5157.954102, 99.529991, 925.616760>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5156.637207, 99.529991, 926.623169>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5155.630859, 99.529991, 927.394470>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5153.529297, 99.529991, 929.003418>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5152.007813, 99.529991, 930.173767>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5150.959961, 99.529991, 930.980469>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5150.234863, 99.530006, 931.540771>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5149.740234, 99.529991, 931.926575>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5145.673828, 99.530006, 935.053833>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.211914, 99.530006, 936.955322>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5141.858398, 99.529999, 937.998352>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5141.148438, 99.529991, 938.546448>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5131.120605, 99.529999, 945.884399>)
+19:10:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5120.758301, 99.529991, 953.471497>)
+19:10:21 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5111.501953, 99.530022, 959.517822>)
+19:10:21 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5099.242188, 99.529999, 964.490173>)
+19:10:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5089.573730, 99.627701, 967.937012>)
+19:10:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5080.162598, 99.578819, 970.942200>)
+19:10:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:10:51 | "BouRHooD" (steamid=76561198116299684) created new building set (СидоровичБункер)
+19:17:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:17:0 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:17:0 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:17:0 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:17:0 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:17:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5088.700195, 99.529991, 968.982605>)
+19:17:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5099.008789, 99.529999, 967.286011>)
+19:17:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5108.238770, 99.529999, 965.703674>)
+19:17:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5104.003906, 99.529991, 965.392761>)
+19:17:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5094.627930, 99.529999, 967.353271>)
+19:17:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5086.738770, 99.693886, 969.214478>)
+19:17:23 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5078.521484, 99.562965, 971.370361>)
+19:19:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:19:16 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:19:16 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:19:16 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:19:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:19:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5078.804688, 99.476501, 969.197266>)
+19:19:19 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5086.317383, 99.555855, 965.338196>)
+19:19:21 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5080.986328, 99.498322, 968.859253>)
+19:19:23 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5077.770508, 99.561058, 971.671875>)
+19:19:23 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5083.049316, 99.623253, 969.978149>)
+19:19:24 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5090.841309, 99.646751, 967.984436>)
+19:19:25 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5087.606445, 99.620552, 968.126831>)
+19:19:25 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5079.012695, 99.560776, 971.105530>)
+19:19:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:19:59 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:19:59 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:19:59 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:19:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:22:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:22:58 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:22:58 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:22:58 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:22:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:23:2 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5087.297363, 99.620209, 973.453918>)
+19:23:3 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5082.807617, 99.586288, 970.528503>)
+19:23:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:23:18 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:23:18 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:23:18 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:23:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:26:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:26:41 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:26:41 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:26:41 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:26:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:27:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:27:38 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:27:38 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:27:38 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:27:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:28:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:28:16 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:28:16 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:28:16 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:28:16 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:29:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:29:10 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:29:10 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:29:10 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:29:10 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:29:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:29:35 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:29:35 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:29:35 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:29:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:30:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:30:53 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:30:53 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:30:53 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:30:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:31:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:31:32 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:31:32 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:31:32 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:31:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:32:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:32:35 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:32:35 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:32:35 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:32:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:2 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:33:2 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:33:2 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:33:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:14 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:33:14 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:33:14 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:33:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:33 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:33:33 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:33:33 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:33:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:33:36 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:35:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:35:15 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:35:15 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:35:15 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:35:15 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:35:17 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:35:18 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:36:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:36:2 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:36:2 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:36:2 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:36:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:36:14 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:37:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:37:41 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:37:41 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:37:41 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:37:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:38:29 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:38:29 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:38:29 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:38:29 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:38:29 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:39:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:39:41 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:39:41 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:39:41 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:39:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:39:45 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:40:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:40:34 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:40:34 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:40:34 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:40:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:40:36 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:40:56 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:41:7 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:41:27 | [WeatherManager] Send Data Count is 0
+19:41:31 | [Time Manager] Setting Date to 2026/8/11 23:36
+19:42:25 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:44:17 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:44:17 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:44:17 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:44:17 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:44:17 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:44:20 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:44:22 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5078.166504, 94.184341, 960.370300>)
+19:44:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:44:57 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:44:57 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:44:57 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:44:57 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:45:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:45:38 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:45:38 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:45:38 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:45:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:46:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:46:41 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:46:41 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:46:41 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:46:41 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:46:43 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:47:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:47:38 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:47:38 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:47:38 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:47:38 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:47:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:47:51 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:47:51 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:47:51 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:47:51 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:47:54 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:48:0 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5075.098633, 95.396591, 962.259094>)
+19:48:1 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5075.010254, 94.184341, 964.249451>)
+19:48:2 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5077.271484, 94.184341, 960.961853>)
+19:48:6 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5073.024902, 94.318733, 964.212036>)
+19:48:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:48:35 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:48:35 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:48:35 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:48:35 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:49:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:49:45 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:49:45 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:49:45 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:49:45 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:50:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:50:21 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:50:21 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:50:21 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:50:21 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:50:29 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:51:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:51:2 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:51:2 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:51:2 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:51:2 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:51:6 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+19:52:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:52:28 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:52:28 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:52:28 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:52:28 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:54:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:54:39 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:54:39 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:54:39 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:54:39 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:56:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:56:34 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:56:34 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:56:34 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:56:34 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:57:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:57:1 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:57:1 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:57:1 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:57:1 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:58:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+19:58:18 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+19:58:18 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+19:58:18 | [BuildingSetManager] Deleted file: СидоровичБункер
+19:58:18 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:1:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:1:11 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:1:11 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:1:11 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:1:11 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:1:22 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:2:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:2:33 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:2:33 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:2:33 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:2:33 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:3:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:3:32 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:3:32 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:3:32 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:3:32 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:3:34 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:3:52 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5074.814453, 99.472687, 972.714905>)
+20:3:53 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5067.913086, 95.636627, 969.020508>)
+20:3:56 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:3:58 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:3:59 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5076.201660, 94.184341, 960.821289>)
+20:4:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:4:55 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:4:55 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:4:55 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:4:55 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:4:57 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:5:4 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:6:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:6:23 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:6:23 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:6:23 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:6:23 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:6:27 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5074.221680, 94.313850, 965.381775>)
+20:6:31 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5077.677246, 94.184341, 960.593628>)
+20:6:35 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:6:37 | "BouRHooD" (steamid=76561198116299684) toggled freecam
+20:6:39 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5072.341797, 94.184341, 965.084412>)
+20:7:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:7:59 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:7:59 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:7:59 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:7:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:8:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:8:53 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:8:53 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:8:53 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:8:53 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:9:9 | "BouRHooD" (steamid=76561198116299684) deleted object "Land_mtl_bunker_door" (pos=<5072.390137, 95.569397, 964.705994>)
+20:11:0 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5077.824219, 94.184341, 960.539429>)
+20:11:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:11:59 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:11:59 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:11:59 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:11:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:12:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5073.580078, 94.319199, 964.781616>)
+20:12:39 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5077.852539, 94.184341, 960.609741>)
+20:13:5 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5073.962891, 94.184341, 964.565063>)
+20:13:6 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5069.140137, 94.677528, 965.970886>)
+20:13:7 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5066.181641, 95.606628, 968.812744>)
+20:13:8 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5069.728516, 97.385605, 972.128052>)
+20:13:20 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5067.918457, 95.964661, 969.843872>)
+20:13:21 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5070.172852, 94.184341, 965.382568>)
+20:13:24 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5069.075684, 94.957359, 966.950928>)
+20:13:25 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5066.324219, 95.606628, 969.399231>)
+20:13:26 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5069.326172, 97.393188, 972.436096>)
+20:13:29 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5068.446777, 96.591827, 971.046265>)
+20:13:31 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5072.780762, 94.318733, 964.066406>)
+20:14:38 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5076.398926, 94.248741, 960.089966>)
+20:14:42 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5072.359863, 94.184341, 964.717834>)
+20:14:44 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5074.479004, 94.184341, 963.046265>)
+20:14:55 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5069.123047, 95.010963, 967.222168>)
+20:14:58 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5075.984375, 99.530815, 970.647522>)
+20:15:4 | [WeatherManager] Send Data Count is 0
+20:15:6 | [Time Manager] Setting Date to 2026/8/12 23:18
+20:16:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:16:59 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:16:59 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:16:59 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:16:59 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:17:6 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5078.262207, 94.184341, 960.115784>)
+20:17:7 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5082.314453, 94.194885, 959.589111>)
+20:17:9 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5075.815430, 94.184341, 961.525696>)
+20:17:9 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5073.444336, 94.184341, 963.686523>)
+20:18:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:18:14 | [BuildingSetManager] Saving & Reloading Building Set:СидоровичБункер
+20:18:14 | "BouRHooD" (steamid=76561198116299684) updated building set (СидоровичБункер)
+20:18:14 | [BuildingSetManager] Deleted file: СидоровичБункер
+20:18:14 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/СидоровичБункер.vpp
+20:18:39 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5068.032715, 96.039200, 969.949768>)
+20:18:40 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5071.459473, 94.184341, 965.480896>)
+20:18:44 | Player "BouRHooD" (steamId=76561198116299684) initiated disconnect process...
+20:18:45 | Player "BouRHooD" (steamId=76561198116299684) disconnected early from server (EXIT NOW).

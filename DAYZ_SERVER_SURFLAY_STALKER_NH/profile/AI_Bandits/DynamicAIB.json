@@ -5,12 +5,13 @@
     "cardamage": 1,
     "GroupLocations": [
         {
-            "name": "Group1",
+            "name": "1 Group Kordon ATP",
             "faction": "Bandits",
             "waypoints": [
-                "5237.821777 9.568775 2157.804199",
-                "4887.835449 9.560701 2578.265625",
-                "4917.622559 9.539299 2599.980469"
+                "5764.660156 89.555000 1034.554932",
+                "5762.891113 89.555008 1074.602783",
+                "5829.750488 90.319992 1023.459656",
+                "5732.639648 89.530022 1001.666443"
             ],
             "npcclasses": [
                 "BanditAI_Keiko",
@@ -21,29 +22,41 @@
             ],
             "accuracy": 75.0,
             "grenadechance": 0.0,
-            "dog": 1,
+            "dog": 0,
             "weaponpool": [
-                "Predefined_AKM"
+                "Predefined_MakarovIJ70",
+                "Predefined_SawedoffIzh43Shotgun"
             ],
             "npcproperties": {
-                "headgear": [],
-                "masks": [],
+                "headgear": [
+                    "FlatCap_Black"
+                ],
+                "masks": [
+                    "Bandana_BlackPattern"
+                ],
                 "vests": [],
-                "backpacks": [
-                    "HuntingBag"
-                ],
+                "backpacks": [],
                 "bodywear": [
-                    "HuntingJacket_Brown"
+                    "SFP_USSR_Jacket_Bandit"
                 ],
+                "belts": [],
                 "pants": [
-                    "HunterPants_Brown"
+                    "TrackSuitPants_Black"
                 ],
                 "shoes": [
-                    "CombatBoots_Black"
+                    "AthleticShoes_Black"
                 ],
+                "gloves": [],
+                "armband": [],
                 "loot": [
                     "Rag",
-                    "Apple"
+                    "SFP_BayanMYZ",
+                    "SodaCan_Kvass",
+                    "SFP_Can_water_closed",
+                    "SFP_SIGARETA_SMOKE",
+                    "SFP_Food_DoshirakRed_pack",
+                    "SFP_DrinkCan_Zhigulevskoe",
+                    "SFP_DrinkCan_Baltica9"
                 ]
             }
         }
@@ -52,14 +65,14 @@
         {
             "name": "Sniper1",
             "positions": [
-                "5237.821777 9.568775 2157.804199",
-                "4887.835449 9.560701 2578.265625",
-                "4917.622559 9.539299 2599.980469"
+                "5237.821777 107.568775 2157.804199",
+                "4887.835449 107.560701 2578.265625",
+                "4917.622559 107.539299 2599.980469"
             ],
             "npcclass": "BanditAI_Keiko",
             "accuracy": 75.0,
             "fixedpos": 0,
-            "triggerpos": "5237.821777 9.568775 2157.804199",
+            "triggerpos": "5237.821777 107.568775 2157.804199",
             "weaponpool": [
                 "Predefined_AKM"
             ],
@@ -73,12 +86,15 @@
                 "bodywear": [
                     "HuntingJacket_Brown"
                 ],
+                "belts": [],
                 "pants": [
                     "HunterPants_Brown"
                 ],
                 "shoes": [
                     "CombatBoots_Black"
                 ],
+                "gloves": [],
+                "armband": [],
                 "loot": [
                     "Stone",
                     "BandageDressing"
@@ -94,6 +110,27 @@
                 "Mag_AKM_30Rnd",
                 "AK_WoodHndgrd",
                 "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_MakarovIJ70",
+            "weapon": "MakarovIJ70",
+            "attachments": [
+                "Mag_IJ70_8Rnd"
+            ]
+        },
+        {
+            "name": "Predefined_SawedoffIzh43Shotgun",
+            "weapon": "SawedoffIzh43Shotgun",
+            "attachments": [
+                "Ammo_12gaPellets"
+            ]
+        },
+        {
+            "name": "Predefined_Stick",
+            "weapon": "SharpWoodenStick",
+            "attachments": [
+                "PigSteakMeat"
             ]
         }
     ]

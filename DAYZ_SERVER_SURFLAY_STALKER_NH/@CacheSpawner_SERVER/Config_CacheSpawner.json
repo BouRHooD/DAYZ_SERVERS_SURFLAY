@@ -1,0 +1,301 @@
+{
+    "DebugLogs_enabled": 1,
+    "Enable_ChatMessageWhenSpawned": 1,
+    "ChatMessageWhenSpawned": "Created the new Cache in Map position: %coords%",
+    "CacheList": [
+        {
+            "Classname": "BarrelHoles_Blue",
+            "Min_Caches_In_Map": 1,
+            "Max_Caches_In_Map": 2,
+            "Coords": [
+                {
+                    "Position": [
+                        5149.73,
+                        309.362,
+                        10646.2
+                    ],
+                    "Orientation": [
+                        -90,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "Position": [
+                        5002.73,
+                        309.362,
+                        10016.2
+                    ],
+                    "Orientation": [
+                        -90,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "Time_Wait_Spawn": 5.5,
+            "Time_Respawn": 180,
+            "ItemsInside": [
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "M4A1",
+                        "Chance_Spawn": 100,
+                        "Damaged": 30.7,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": [
+                        {
+                            "Classname": "M4_CQBBttstck",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        },
+                        {
+                            "Classname": "M4_CarryHandleOptic",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        },
+                        {
+                            "Classname": "M4_Suppressor",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "ACOGOptic",
+                        "Chance_Spawn": 100,
+                        "Damaged": 40.1,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "Canteen",
+                        "Chance_Spawn": 100,
+                        "Damaged": 50.5,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 1,
+                        "Count_Stack": 329,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "Ammo_762x54",
+                        "Chance_Spawn": 100,
+                        "Damaged": 30.1,
+                        "Weet": 0.5,
+                        "Temperature": 30,
+                        "IsStacked": 0,
+                        "Count_Stack": 30,
+                        "IsMeat": 0,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "TacticalBaconCan",
+                        "Chance_Spawn": 100,
+                        "Damaged": 10,
+                        "Weet": 0,
+                        "Temperature": -30,
+                        "IsStacked": 1,
+                        "Count_Stack": 30,
+                        "IsMeat": 0,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "CowSteakMeat",
+                        "Chance_Spawn": 100,
+                        "Damaged": 0,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 1,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                }
+            ]
+        },
+        {
+            "Classname": "Barrel_Green",
+            "Min_Caches_In_Map": 1,
+            "Max_Caches_In_Map": 1,
+            "Coords": [
+                {
+                    "Position": [
+                        5149.73,
+                        309.362,
+                        10646.2
+                    ],
+                    "Orientation": [
+                        -90,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "Time_Wait_Spawn": 5.5,
+            "Time_Respawn": 180,
+            "ItemsInside": [
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "M4A1",
+                        "Chance_Spawn": 100,
+                        "Damaged": 30.7,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": [
+                        {
+                            "Classname": "M4_CQBBttstck",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        },
+                        {
+                            "Classname": "M4_CarryHandleOptic",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        },
+                        {
+                            "Classname": "M4_Suppressor",
+                            "Chance_Spawn": 100,
+                            "Damaged": 0,
+                            "Weet": 0,
+                            "Temperature": 0,
+                            "IsStacked": 0,
+                            "Count_Stack": 0,
+                            "IsMeat": 0,
+                            "MeatFoodStage": ""
+                        }
+                    ]
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "ACOGOptic",
+                        "Chance_Spawn": 100,
+                        "Damaged": 40.1,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "Canteen",
+                        "Chance_Spawn": 100,
+                        "Damaged": 50.5,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 1,
+                        "Count_Stack": 329,
+                        "IsMeat": 0,
+                        "MeatFoodStage": ""
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "Ammo_762x54",
+                        "Chance_Spawn": 100,
+                        "Damaged": 30.1,
+                        "Weet": 0.5,
+                        "Temperature": 30,
+                        "IsStacked": 0,
+                        "Count_Stack": 30,
+                        "IsMeat": 0,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "TacticalBaconCan",
+                        "Chance_Spawn": 100,
+                        "Damaged": 10,
+                        "Weet": 0,
+                        "Temperature": -30,
+                        "IsStacked": 1,
+                        "Count_Stack": 30,
+                        "IsMeat": 0,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                },
+                {
+                    "ItemCharacteristic": {
+                        "Classname": "CowSteakMeat",
+                        "Chance_Spawn": 100,
+                        "Damaged": 0,
+                        "Weet": 0,
+                        "Temperature": 0,
+                        "IsStacked": 0,
+                        "Count_Stack": 0,
+                        "IsMeat": 1,
+                        "MeatFoodStage": "RAW"
+                    },
+                    "ItemsAttached": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,727 @@
+{
+    "EnableDebug": 0,
+    "Rarity": 50.0,
+    "InitialCooldown": 400,
+    "XPGain": 1,
+    "SoundEnabled": 1,
+    "DisableNotifications": 0,
+    "NotificationHeading": "Searching",
+    "NotificationText": "You found something...",
+    "NotificationText2": "Seems to be empty...",
+    "MaxHealthCoef": 1.0,
+    "SFLBuildings": [
+        {
+            "name": "Civilian_Izum",
+            "buildings": [
+                "Land_izum_house1",
+                "Land_izum_house2",
+                "Land_izum_house3",
+                "Land_izum_house4",
+                "Land_izum_house5",
+                "Land_izum_house6",
+                "Land_izum_houseiz1",
+                "Land_izum_houseiz2",
+                "Land_izum_houseiz3",
+                "Land_izum_houseiz4",
+                "Land_izum_scene"
+            ]
+        },
+        {
+            "name": "Civilian_Vesnice",
+            "buildings": [
+                "Land_vesnice_house01",
+                "Land_vesnice_house02",
+                "Land_vesnice_house03",
+                "Land_vesnice_house04",
+                "Land_vesnice_house05",
+                "Land_vesnice_house09",
+                "Land_vesnice_house10",
+                "Land_vesnice_house11",
+                "Land_vesnice_house12",
+                "Land_vesnice_house13",
+                "Land_vesnice_house14",
+                "Land_vesnice_house15",
+                "Land_vesnice_house16",
+                "Land_vesnice_house18",
+                "Land_vesnice_house19",
+                "Land_vesnice_house20",
+                "Land_vesnice_house21"
+            ]
+        },
+        {
+            "name": "Industrial_Pripyat",
+            "buildings": [
+                "land_pripjat_greenhouse",
+                "land_pripjat_greenjard",
+                "land_pripjat_AvtoStanciya",
+                "land_Lazareva1_7_middle",
+                "land_Lazareva1_7_left",
+                "land_Lazareva1_7_right",
+                "Land_lesi_1a",
+                "land_polesieotel1",
+                "land_polesieotel2",
+                "land_polesieotel4",
+                "Land_gastronom",
+                "Land_gastronom_podval",
+                "land_berezka_main",
+                "land_berezka_sklad_1",
+                "land_berezka_sklad_2",
+                "Land_Tenement_Small",
+                "land_dom_knig",
+                "land_dom_knig_zal",
+                "land_avtovokzal"
+            ]
+        },
+        {
+            "name": "Industrial_Other",
+            "buildings": [
+                "Land_ceh_house2",
+                "Land_ceh_sklad",
+                "Land_kontrolpod",
+                "Land_kontrolpod_butka",
+                "Land_kontrolpod_main3p",
+                "Land_kontrolpod_main4p",
+                "Land_cement_building",
+                "Land_cement_building_5f",
+                "Land_cement_small_tank",
+                "Land_garaz1",
+                "Land_garaz3",
+                "Land_darkvalley_metal_tower",
+                "Land_metal_tower",
+                "Land_port_kran",
+                "land_zemsnaryat",
+                "Land_zemsnaryat_barzja"
+            ]
+        },
+        {
+            "name": "Industrial_Volhov",
+            "buildings": [
+                "land_volhov_garaje",
+                "land_volhov_building",
+                "land_volhov_pozemka_spuski",
+                "land_volhov_pozemka1",
+                "land_volhov_pozemka2"
+            ]
+        },
+        {
+            "name": "Farm_Vesnice",
+            "buildings": [
+                "Land_vesnice_farma01",
+                "Land_vesnice_farma02",
+                "Land_vesnice_farma03p1",
+                "Land_vesnice_farma03p2"
+            ]
+        },
+        {
+            "name": "Hunting",
+            "buildings": [
+                "Land_vesnice_vishka",
+                "Land_metal_tower"
+            ]
+        },
+        {
+            "name": "Police_Military",
+            "buildings": [
+                "Land_vesnice_house22",
+                "Land_vesnice_house23",
+                "Land_vesnice_house24",
+                "Land_vesnice_house25",
+                "Land_vesnice_house26",
+                "Land_vesnice_house27"
+            ]
+        },
+        {
+            "name": "Medical_KBO",
+            "buildings": [
+                "Land_KBO_p1",
+                "Land_KBO_p2"
+            ]
+        },
+        {
+            "name": "Military_Stalker",
+            "buildings": [
+                "Land_uazik_02",
+                "land_prichal_part1",
+                "land_prichal_part2",
+                "land_prichal_part3",
+                "land_prichal_truba",
+                "Land_kontrolpod_butka",
+                "Land_kontrolpod_main3p",
+                "Land_kontrolpod_main4p",
+                "land_volhov_garaje",
+                "land_volhov_building",
+                "Land_ceh_house2"
+            ]
+        }
+    ],
+    "SFLLootCategory": [
+        {
+            "name": "Civilian_Izum_Food",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "Pajka",
+                "UnknownFoodCan",
+                "Zagorky",
+                "PowderedMilk",
+                "BoxCerealCrunchin",
+                "Apple",
+                "BakedBeansCan",
+                "CatFoodCan",
+                "Chips",
+                "Crackers",
+                "SodaCan_Cola",
+                "SodaCan_Kvass"
+            ]
+        },
+        {
+            "name": "Civilian_Izum_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CivilianBelt",
+                "Rope",
+                "PetrolLighter",
+                "AthleticShoes_Blue",
+                "BalaclavaMask_Blue",
+                "Paper",
+                "Raincoat_Red",
+                "ShortJeans_Blue",
+                "SlacksPants_LightGrey",
+                "BeanieHat_Beige",
+                "WoolGloves_Tan"
+            ]
+        },
+        {
+            "name": "Civilian_Izum_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Paper",
+                "PetrolLighter",
+                "Rope",
+                "Ammo_22",
+                "Ammo_12gaSlug",
+                "KitchenKnife",
+                "KitchenTimer",
+                "SteakKnife",
+                "Whetstone",
+                "Screwdriver",
+                "Flashlight",
+                "Battery9V"
+            ]
+        },
+        {
+            "name": "Civilian_Vesnice_Food",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "Pajka",
+                "UnknownFoodCan",
+                "Zagorky",
+                "PowderedMilk",
+                "BoxCerealCrunchin",
+                "Apple",
+                "BakedBeansCan",
+                "Chips",
+                "Rice",
+                "Marmalade"
+            ]
+        },
+        {
+            "name": "Civilian_Vesnice_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CivilianBelt",
+                "Rope",
+                "AthleticShoes_Blue",
+                "BalaclavaMask_Blue",
+                "Raincoat_Red",
+                "BeanieHat_Beige",
+                "WorkingGloves_Beige",
+                "CowboyHat_Brown",
+                "Ushanka_Black"
+            ]
+        },
+        {
+            "name": "Civilian_Vesnice_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Paper",
+                "PetrolLighter",
+                "Rope",
+                "KitchenKnife",
+                "Screwdriver",
+                "Flashlight",
+                "Battery9V",
+                "CanOpener",
+                "Matchbox"
+            ]
+        },
+        {
+            "name": "Industrial_Pripyat_Food",
+            "rarity": 45.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BoxCerealCrunchin",
+                "Chips",
+                "BakedBeansCan",
+                "Crackers",
+                "Rice",
+                "SodaCan_Cola",
+                "SodaCan_Kvass"
+            ]
+        },
+        {
+            "name": "Industrial_Pripyat_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Green",
+                "MotoHelmet_Lime",
+                "Netting",
+                "Fabric",
+                "Headtorch_Grey",
+                "RadarCap_Black",
+                "WorkingGloves_Beige",
+                "ZmijovkaCap_Black",
+                "BalaclavaMask_Beige",
+                "GasMask",
+                "GP5GasMask"
+            ]
+        },
+        {
+            "name": "Industrial_Pripyat_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "NailBox",
+                "MetalWire",
+                "ElectronicRepairKit",
+                "EpoxyPutty",
+                "Fabric",
+                "Headtorch_Grey",
+                "Nail",
+                "Screwdriver",
+                "WorkingGloves_Yellow",
+                "Wrench",
+                "Pliers",
+                "Hacksaw",
+                "Crowbar"
+            ]
+        },
+        {
+            "name": "Industrial_Other_Food",
+            "rarity": 45.0,
+            "loot": [
+                "UnknownFoodCan",
+                "BakedBeansCan",
+                "Chips",
+                "Crackers",
+                "Rice"
+            ]
+        },
+        {
+            "name": "Industrial_Other_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "JumpsuitJacket_Blue",
+                "JumpsuitPants_Green",
+                "WorkingGloves_Beige",
+                "Headtorch_Grey",
+                "GasMask",
+                "GP5GasMask",
+                "Netting"
+            ]
+        },
+        {
+            "name": "Industrial_Other_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "NailBox",
+                "MetalWire",
+                "ElectronicRepairKit",
+                "Wrench",
+                "Pliers",
+                "Crowbar",
+                "Hacksaw",
+                "Screwdriver"
+            ]
+        },
+        {
+            "name": "Industrial_Volhov_Food",
+            "rarity": 45.0,
+            "loot": [
+                "UnknownFoodCan",
+                "BakedBeansCan",
+                "Rice",
+                "Crackers"
+            ]
+        },
+        {
+            "name": "Industrial_Volhov_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "JumpsuitJacket_Blue",
+                "WorkingGloves_Yellow",
+                "Headtorch_Grey",
+                "GasMask"
+            ]
+        },
+        {
+            "name": "Industrial_Volhov_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "MetalWire",
+                "Wrench",
+                "Screwdriver",
+                "ElectronicRepairKit",
+                "Crowbar"
+            ]
+        },
+        {
+            "name": "Farm_Vesnice_Food",
+            "rarity": 50.0,
+            "loot": [
+                "Apple",
+                "Crackers",
+                "GreenBellPepper",
+                "Honey",
+                "LactariusMushroom",
+                "Lunchmeat",
+                "MacrolepiotaMushroom",
+                "Marmalade",
+                "Pajka",
+                "SodaCan_Fronta",
+                "BakedBeansCan",
+                "Pumpkin",
+                "Potato"
+            ]
+        },
+        {
+            "name": "Farm_Vesnice_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CargoPants_Beige",
+                "CowboyHat_Brown",
+                "Fabric",
+                "DuctTape",
+                "FaceCover_Improvised",
+                "Headtorch_Black",
+                "LeatherSewingKit",
+                "BeanieHat_Black",
+                "WorkingGloves_Beige",
+                "Rope",
+                "WoolGloves_Tan"
+            ]
+        },
+        {
+            "name": "Farm_Vesnice_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaSlug",
+                "BarbedWire",
+                "DuctTape",
+                "Hammer",
+                "Broom",
+                "LeatherSewingKit",
+                "Nail",
+                "Rope",
+                "MediumGasCanister",
+                "CanisterGasoline",
+                "Hoe",
+                "Shovel"
+            ]
+        },
+        {
+            "name": "Hunting_Food",
+            "rarity": 50.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BakedBeansCan",
+                "Crackers",
+                "TacticalBaconCan",
+                "TunaCan"
+            ]
+        },
+        {
+            "name": "Hunting_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "CowboyHat_black",
+                "DryBag_Blue",
+                "Armband_BabyDeer",
+                "Armband_Bear",
+                "Headtorch_Grey",
+                "Heatpack",
+                "HunterPants_Autumn",
+                "HuntingJacket_Autumn",
+                "HuntingKnife",
+                "Ushanka_Black",
+                "Whetstone",
+                "Balaclava3Holes_Beige"
+            ]
+        },
+        {
+            "name": "Hunting_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "OrienteeringCompass",
+                "CanOpener",
+                "CookingStand",
+                "PUScopeOptic",
+                "Headtorch_Grey",
+                "Compass",
+                "Flashlight",
+                "Heatpack",
+                "HuntingKnife",
+                "Matchbox",
+                "Whetstone",
+                "SewingKit",
+                "Binoculars"
+            ]
+        },
+        {
+            "name": "Police_Military_Food",
+            "rarity": 50.0,
+            "loot": [
+                "UnknownFoodCan",
+                "Apple",
+                "BakedBeansCan",
+                "TacticalBaconCan",
+                "TunaCan",
+                "Crackers"
+            ]
+        },
+        {
+            "name": "Police_Military_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "PoliceCap",
+                "PolicePants",
+                "PoliceJacket",
+                "HandcuffKeys",
+                "Handcuffs",
+                "PoliceVest",
+                "TacticalGloves_Black",
+                "MilitaryBelt"
+            ]
+        },
+        {
+            "name": "Police_Military_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaPellets",
+                "Rangefinder",
+                "HandcuffKeys",
+                "Handcuffs",
+                "UniversalLight",
+                "WeaponCleaningKit",
+                "Binoculars",
+                "PersonalRadio"
+            ]
+        },
+        {
+            "name": "Medical_KBO_Food",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "PowderedMilk",
+                "BloodBagEmpty",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantSpray",
+                "Morphine",
+                "NioshFaceMask",
+                "PainkillerTablets",
+                "SalineBag",
+                "StartKitIV",
+                "VitaminBottle",
+                "Epinephrine"
+            ]
+        },
+        {
+            "name": "Medical_KBO_Clothing",
+            "rarity": 50.0,
+            "loot": [
+                "SurgicalGloves_Blue",
+                "Armband_White",
+                "MedicalScrubsPants_White",
+                "SurgicalMask",
+                "FirstAidKit",
+                "DisinfectantSpray",
+                "LabCoat",
+                "MouthRag",
+                "MedicalScrubsHat_Blue",
+                "NBCHoodGray",
+                "NBCJacketGray"
+            ]
+        },
+        {
+            "name": "Medical_KBO_Tools",
+            "rarity": 50.0,
+            "loot": [
+                "BloodBagEmpty",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantSpray",
+                "Morphine",
+                "FirstAidKit",
+                "PainkillerTablets",
+                "SalineBag",
+                "StartKitIV",
+                "VitaminBottle",
+                "Epinephrine",
+                "Thermometer"
+            ]
+        },
+        {
+            "name": "Military_Stalker_Food",
+            "rarity": 40.0,
+            "loot": [
+                "UnknownFoodCan",
+                "TacticalBaconCan",
+                "BakedBeansCan",
+                "TunaCan",
+                "Crackers",
+                "Rice",
+                "Canteen",
+                "PowderedMilk"
+            ]
+        },
+        {
+            "name": "Military_Stalker_Clothing",
+            "rarity": 40.0,
+            "loot": [
+                "MilitaryBelt",
+                "MilitaryBeret_CDF",
+                "CombatKnife",
+                "MilitaryBoots_Beige",
+                "NVGHeadstrap",
+                "OMNOGloves_Brown",
+                "NylonKnifeSheath",
+                "OfficerHat",
+                "TTSKOPants",
+                "TTsKOJacket_Camo",
+                "TacticalGloves_Beige",
+                "GasMask",
+                "GP5GasMask",
+                "NBCHoodGray",
+                "NBCJacketGray",
+                "NBCPantsGray"
+            ]
+        },
+        {
+            "name": "Military_Stalker_Tools",
+            "rarity": 40.0,
+            "loot": [
+                "CombatKnife",
+                "LandMineTrap",
+                "M18SmokeGrenade_White",
+                "MilitaryBelt",
+                "NylonKnifeSheath",
+                "Rangefinder",
+                "Ammo_545x39",
+                "Ammo_762x54",
+                "Ammo_9x19",
+                "Ammo_45ACP",
+                "Ammo_762x39",
+                "Binoculars",
+                "PersonalRadio",
+                "NVGoggles"
+            ]
+        }
+    ],
+    "SFLProxyCategory": [
+        {
+            "name": "Food",
+            "proxies": [
+                "static_kitchen_unit_a_dz",
+                "static_shelf",
+                "static_shelf_1side",
+                "static_skrin_bar",
+                "static_fridge",
+                "static_kitchenstove_elec",
+                "static_barrel1",
+                "static_crate_wood"
+            ]
+        },
+        {
+            "name": "Clothing",
+            "proxies": [
+                "static_washing_machine",
+                "static_tent_strecher",
+                "static_locker_open_v3",
+                "static_locker_open_v2",
+                "static_locker_closed_v2",
+                "static_matress_white_bent",
+                "static_locker_closed_blue_v1",
+                "static_case_bedroom_b",
+                "static_case_cans_b",
+                "static_class_case_b_open",
+                "static_class_case_a_open",
+                "static_class_case_a_closed",
+                "static_foldingbed_open",
+                "static_vojenska_palanda",
+                "static_locker_closed_v1",
+                "static_case_d",
+                "static_dhangar_brownskrin",
+                "static_case_a",
+                "static_case_a_open",
+                "static_almara_open",
+                "static_almara",
+                "static_dhangar_brownskrin_old",
+                "static_pipe-big",
+                "static_school_cage",
+                "static_box_c",
+                "static_metalcrate"
+            ]
+        },
+        {
+            "name": "Tools",
+            "proxies": [
+                "static_tent_gunrack",
+                "static_lekarnicka",
+                "static_medical_table",
+                "static_wheel_cart_dz",
+                "static_locker_closed_v3",
+                "static_teacher_desk",
+                "static_lab_teacher_bench",
+                "static_metalcrate_02",
+                "static_hospital_transport_bed",
+                "static_classroom_case_a",
+                "static_shelfs_small",
+                "static_lab_bench",
+                "static_truck_01_aban_1_lod1parts_fire",
+                "static_class_case_b_closed",
+                "static_workbench_dz",
+                "static_metalcrate",
+                "static_workbench",
+                "static_metalcase_02",
+                "static_metalcase_01",
+                "static_locker_open_blue_v2",
+                "static_library_a",
+                "static_office_table_a",
+                "static_bucket",
+                "static_box_c_multi",
+                "static_rack_dz",
+                "static_box_c",
+                "static_tools_racking_dz",
+                "static_library_a_open",
+                "static_case_bedroom_a",
+                "static_desk_office",
+                "static_table_drawer",
+                "static_shelf_dz",
+                "static_conference_table_a",
+                "static_koz",
+                "static_pipe-small",
+                "static_phonebox",
+                "static_tent_boxwooden",
+                "static_table_umakart",
+                "static_misc_boxwooden",
+                "static_barrel1",
+                "static_barrel4"
+            ]
+        }
+    ]
+}

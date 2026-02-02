@@ -4347,6 +4347,38 @@
           }
         }
       ]
+    },
+	{
+      "_comment": "26 Kordon electra pod mostom (tunel)",
+      "zoneType": "Box",
+      "zonePosition": [5374.937500, 97.092949, 1445.424316],
+      "zoneRadius": 50,
+      "distanceBTWAnomaly": 1,
+      "checkGeometry": 0,
+      "anomalyData": 
+      [
+        {
+          "anomalyName":"Electra",
+          "anomalyCount": 15,
+		  "ArtefactsWithoutDetector": 
+          {
+            "SpawnChancePercent": 1.0,
+            "SpawnDistance_Min": 3.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": 
+            [
+              {
+                "ArtefactClassName": "Artefact",
+                 "ArtefactSpawnChancePercent": 100
+              },
+              {
+                "ArtefactClassName": "Artefact",
+                "ArtefactSpawnChancePercent": 100
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

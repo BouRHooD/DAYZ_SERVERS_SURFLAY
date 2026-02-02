@@ -2,22 +2,24 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 10 Infected with a sledgehammer",
+    "ObjectiveText": "Убить 4 бандита на АТП",
     "TimeLimit": -1,
     "Active": 1,
-    "Position": [
-        0.0,
-        0.0,
-        0.0
-    ],
-    "MaxDistance": -1.0,
+    "Position": [5757.724609, 89.555008, 1032.645142],
+    "MaxDistance": 150.0,
     "MinDistance": -1.0,
-    "Amount": 10,
-    "ClassNames": [],
+    "Amount": 4,
+    "ClassNames": [
+		"BanditAI_Keiko",
+		"BanditAI_Linda",
+		"BanditAI_Rolf",
+		"BanditAI_Denis",
+		"BanditAI_Mirek"
+	],
     "CountSelfKill": 0,
     "AllowedWeapons": [],
     "ExcludedClassNames": [],
-    "CountAIPlayers": 0,
+    "CountAIPlayers": 1,
     "AllowedTargetFactions": [],
     "AllowedDamageZones": []
 }

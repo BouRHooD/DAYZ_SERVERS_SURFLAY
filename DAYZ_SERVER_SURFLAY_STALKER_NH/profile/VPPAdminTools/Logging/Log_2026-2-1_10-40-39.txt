@@ -1,0 +1,279 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-2-1_10-40-39
+====================================================================================
+10:40:39 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+10:40:39 | [PermissionManager] Perm (FreeCamera) has been registered!
+10:40:39 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuServerManager) has been registered!
+10:40:39 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+10:40:39 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+10:40:39 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+10:40:39 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+10:40:39 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+10:40:39 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+10:40:39 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+10:40:39 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+10:40:39 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+10:40:39 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuBansManager) has been registered!
+10:40:39 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+10:40:39 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+10:40:39 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+10:40:39 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+10:40:39 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+10:40:39 | [PermissionManager] Adding Super Admin (76561198116299684)
+10:40:39 | [PermissionManager] Adding Super Admin (76561198124555828)
+10:40:39 | [PermissionManager] Loaded UserGroups.json
+10:40:39 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+10:40:39 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+10:40:39 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+10:40:39 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+10:40:39 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+10:40:39 | Building Sets Loaded: 3
+10:40:39 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+10:40:39 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+10:41:37 | Player "BorisBritva" (steamId=76561198124555828) connected to server!
+10:41:55 | "76561198124555828" (steamid=76561198124555828) teleported to (pos=<5184.819824, 94.966072, 656.559021>)
+10:41:55 | "BorisBritva": (steamid=76561198124555828) teleported to (pos=5184.82,0,656.559)
+10:41:55 | Player "BouRHooD" (steamId=76561198116299684) connected to server!
+10:42:0 | "BorisBritva" (steamid=76561198124555828) teleported to crosshair (pos=<5144.636719, 101.272636, 649.215210>)
+10:42:9 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5226.272461, 99.530006, 875.561707>)
+10:42:10 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5236.041504, 99.530006, 866.490417>)
+10:42:10 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.311035, 99.995377, 854.656921>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.354004, 100.195564, 843.476501>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.358398, 100.209251, 843.338257>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.365723, 100.221924, 843.212830>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.369141, 100.234833, 843.081238>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.376465, 100.245598, 842.977539>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.364258, 100.257370, 842.841675>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.735840, 100.663963, 839.078247>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.840332, 100.841805, 837.626160>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.834473, 100.908005, 837.040161>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.762695, 100.939812, 836.686646>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.606934, 100.940331, 836.521179>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.464844, 100.932884, 836.438782>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.590332, 101.322411, 834.017395>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.462891, 101.431801, 833.420471>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.424316, 101.736130, 831.896790>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.326172, 101.801682, 831.529663>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.247070, 101.811638, 831.446228>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5239.061035, 102.180046, 829.345703>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.994629, 102.243507, 828.988953>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.968262, 102.253525, 828.922485>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.913086, 102.339981, 828.459167>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.885254, 102.386833, 828.209351>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.857910, 102.433945, 827.958374>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.872070, 102.561020, 827.338501>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.759766, 102.674416, 826.704895>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.653320, 102.772911, 826.090515>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.521973, 102.877068, 825.274292>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.283203, 102.946564, 824.479797>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.601074, 103.476288, 826.065796>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.649902, 103.739479, 826.280029>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.543457, 103.823822, 825.673767>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.569824, 103.962418, 825.696655>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5238.606445, 104.070946, 825.729004>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5236.728027, 103.325974, 819.101379>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5236.272461, 103.339111, 818.105408>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5235.965332, 103.352814, 817.548096>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5235.806152, 103.366158, 817.199524>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5235.686523, 103.374908, 816.949463>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5235.104492, 103.454643, 815.385254>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5234.515625, 103.460861, 814.418640>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5234.170410, 103.456306, 813.892578>)
+10:42:11 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5233.695313, 103.435356, 813.348633>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5228.465332, 103.813499, 806.089844>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5222.571289, 104.333961, 799.242981>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5222.377441, 104.332809, 799.318542>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5222.100098, 104.329926, 799.453613>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5221.855957, 104.326553, 799.590332>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5221.728516, 104.325935, 799.637207>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5221.619141, 104.326393, 799.655518>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5221.520508, 104.326836, 799.671753>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5220.873535, 104.367439, 798.997559>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5220.356445, 104.414459, 798.438354>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5219.853516, 104.465637, 797.802612>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5219.232910, 104.511139, 797.313477>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5218.650391, 104.554276, 796.847290>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5218.118652, 104.616806, 796.195618>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5217.604004, 104.672066, 795.727356>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5216.841797, 104.764305, 794.789978>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5216.158691, 104.821342, 794.008423>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.663574, 104.868011, 793.399658>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.312988, 104.904861, 792.890259>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5215.071777, 104.932549, 792.483582>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5214.324707, 105.019196, 791.716736>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5213.864746, 105.076096, 791.195007>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5213.565430, 105.106453, 790.845154>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5212.486816, 105.208603, 789.646790>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5211.886719, 105.263847, 788.881409>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5210.755371, 105.345322, 787.538147>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5210.184082, 105.382721, 786.776001>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5209.907227, 105.404083, 786.405762>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5208.655273, 105.490906, 785.010620>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5208.078613, 105.521049, 784.289917>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5207.821777, 105.534485, 783.966309>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5206.081055, 105.573189, 781.736877>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5205.404297, 105.566208, 780.693176>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5203.335938, 105.523933, 778.087158>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5202.628418, 105.491470, 777.035461>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5202.377930, 105.464447, 776.608093>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5199.463867, 105.212593, 772.655273>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5198.580078, 105.110275, 771.312927>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5198.329590, 105.074387, 770.879761>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.949707, 104.697479, 766.312927>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5194.066406, 104.568962, 765.044556>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5193.878906, 104.542931, 764.782288>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5189.003906, 103.783638, 757.950745>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5188.079590, 103.614365, 756.599731>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.918457, 103.586441, 756.380859>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.829590, 103.571587, 756.270630>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.792480, 103.564720, 756.211792>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.760254, 103.559227, 756.170959>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.720215, 103.552559, 756.120667>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5187.688965, 103.547050, 756.077148>)
+10:42:12 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5176.174805, 101.661560, 739.961609>)
+10:42:13 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5163.220215, 99.606430, 721.816223>)
+10:42:13 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5156.855957, 99.529999, 712.836609>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.542480, 99.269981, 696.878113>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.432617, 99.263237, 696.757813>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.341797, 99.257820, 696.656921>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.303711, 99.259911, 696.614441>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.271484, 99.261345, 696.581726>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.245605, 99.262543, 696.555603>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.221191, 99.263763, 696.529053>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5143.194824, 99.264977, 696.502258>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5137.943359, 99.533142, 690.247620>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5136.467773, 99.665306, 688.530396>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5136.103027, 99.721237, 688.108704>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5135.921875, 99.748734, 687.901917>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5135.859863, 99.756027, 687.852722>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5135.823730, 99.759529, 687.832031>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5135.756348, 99.764664, 687.806885>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5135.684570, 99.770195, 687.779907>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5130.324707, 100.288818, 681.497559>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5129.271484, 100.365707, 680.395691>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5129.017090, 100.384842, 680.255432>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5128.720215, 100.402924, 680.118408>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5128.569824, 100.406044, 680.086060>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5128.472168, 100.409233, 680.058044>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5128.397949, 100.416618, 680.005981>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5128.305176, 100.421906, 679.936035>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5127.333008, 100.498413, 678.911926>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5126.631348, 100.568008, 678.165833>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5126.175293, 100.669243, 677.675232>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5125.744629, 100.773788, 677.153931>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5125.289063, 100.869141, 676.700317>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5124.826660, 100.949654, 676.233276>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5124.058594, 101.093475, 675.384705>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5123.483398, 101.229012, 674.805725>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5122.863281, 101.322556, 674.169800>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5121.968750, 101.463196, 673.200195>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5121.448242, 101.595634, 672.671387>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5121.077637, 101.697945, 672.292053>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5120.307129, 101.917610, 671.463196>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5119.708008, 102.066124, 670.842834>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5119.295898, 102.168358, 670.414124>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5119.054199, 102.243973, 670.155701>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5118.878906, 102.297478, 669.962036>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5118.728027, 102.334511, 669.795471>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5117.515625, 102.631134, 668.463257>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5116.855469, 102.801315, 667.714111>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5115.899902, 103.056839, 666.678467>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5115.419922, 103.193222, 666.108337>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5115.204590, 103.262558, 665.801208>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5114.303711, 103.517418, 664.728210>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5113.942871, 103.627975, 664.177856>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5112.411133, 104.017288, 662.412109>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5111.776367, 104.160255, 661.614319>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5110.413086, 104.476799, 659.796936>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5108.400879, 104.941246, 657.182312>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5107.821777, 105.071892, 656.377808>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5107.665039, 105.107246, 656.134521>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5107.607422, 105.122055, 656.023254>)
+10:42:14 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5104.605469, 105.746033, 652.020691>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5104.193848, 105.841637, 651.450684>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5103.401367, 105.994713, 650.331360>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5103.294922, 106.012680, 650.186279>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5103.199707, 106.027847, 650.071899>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5102.753906, 106.125168, 649.479919>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5102.464355, 106.190437, 649.095581>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5102.033691, 106.283440, 648.564087>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5101.600098, 106.358055, 647.951599>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5096.208496, 106.529999, 640.629883>)
+10:42:15 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5091.151367, 106.530006, 633.838013>)
+10:42:35 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5083.312500, 106.529991, 629.515869>)
+10:42:37 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5082.479492, 106.529991, 623.007019>)
+10:42:38 | "BouRHooD" (steamid=76561198116299684) teleported to crosshair (pos=<5085.120117, 106.530006, 626.180542>)
+10:44:2 | Player "BouRHooD" (steamId=76561198116299684) initiated disconnect process...
+10:44:2 | Player "BorisBritva" (steamId=76561198124555828) initiated disconnect process...

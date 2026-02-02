@@ -7,9 +7,9 @@
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "1683 457 14219",
-            "triggermins": "-1 -0.2 -1",
-            "triggermaxs": "1 1 1",
+            "triggerpos": "1707.685669 107.080978 14216.460938",
+            "triggermins": "-100 -100 -100",
+            "triggermaxs": "100 100 100",
             "triggerradius": 0.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
@@ -17,8 +17,8 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
-                "1683 457 14219",
-                "1684 457 14218"
+                "1707.685669 107.080978 14216.460938",
+                "1708.685669 107.080978 14216.460938"
             ],
             "spawnradius": 0.0,
             "bubakProps": {
@@ -36,37 +36,120 @@
             }
         },
         {
-            "name": "trigger2",
-            "workinghours": "23-6",
+            "name": "trigger derebas voroni",
+            "workinghours": "0-24",
             "triggerdependency": [
                 ""
             ],
-            "triggerpos": "1530 0 8",
-            "triggermins": "-1 -0.2 -1",
-            "triggermaxs": "1 1 1",
+            "triggerpos": "5194.939941 99.922745 910.456787",
+            "triggermins": "-200 -200 -200",
+            "triggermaxs": "200 200 200",
             "triggerradius": 0.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 3600,
+            "triggerdelay": 1800,
             "spawnerpos": [
-                "1358 500 25",
-                "0 0 0"
+                "5194.939941 99.922745 910.456787"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Raven_Airborne"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger kordon ploti pod mostom",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5431.455566 99.530006 1030.024170",
+            "triggermins": "-200 -200 -200",
+            "triggermaxs": "200 200 200",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5431.455566 99.530006 1030.024170"
+            ],
+            "spawnradius": 50.0,
             "bubakProps": {
                 "bubaknum": 4,
                 "onlyfilluptobubaknum": 1,
                 "itemrandomdmg": 1,
                 "bubaci": [
-                    "ZmbM_ClerkFat_White",
-                    "ZmbM_SoldierNormal"
+                    "SFP_Plot_style1"
                 ],
-                "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
-                ]
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger doma pered neitrals Izlom",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5781.553223 111.547104 1569.588501",
+            "triggermins": "-200 -200 -200",
+            "triggermaxs": "200 200 200",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5781.553223 111.547104 1569.588501"
+            ],
+            "spawnradius": 25.0,
+            "bubakProps": {
+                "bubaknum": 1,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "SFP_izlome_1"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "trigger doma pered neitrals Zombie",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5781.553223 111.547104 1569.588501",
+            "triggermins": "-200 -200 -200",
+            "triggermaxs": "200 200 200",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "5781.553223 111.547104 1569.588501"
+            ],
+            "spawnradius": 25.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "SFP_Zombirovan_ondinocka",
+                    "SFP_ZombieCivilian_1"
+                ],
+                "bubakinventory": []
             }
         }
     ]

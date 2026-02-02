@@ -2,13 +2,13 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 5,
-    "ObjectiveText": "Deliver the note to Steve",
+    "ObjectiveText": "Доставить водку в деревню",
     "TimeLimit": -1,
     "Active": 1,
     "Collections": [
         {
-            "Amount": 1,
-            "ClassName": "ExpansionQuestItemPaper",
+            "Amount": 5,
+            "ClassName": "SFP_Vodka_Sibir",
             "QuantityPercent": -1,
             "MinQuantityPercent": -1
         }
@@ -16,5 +16,5 @@
     "ShowDistance": 1,
     "AddItemsToNearbyMarketZone": 0,
     "MaxDistance": 20.0,
-    "MarkerName": "Talk to Steve"
+    "MarkerName": "Доставка водки"
 }

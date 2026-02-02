@@ -2,16 +2,16 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 3,
-    "ObjectiveText": "Get to the Village",
+    "ObjectiveText": "Отправьтесь к командиру Петренко",
     "TimeLimit": -1,
     "Active": 1,
     "Position": [
-        0.0,
-        0.0,
-        0.0
+        5078.423828,
+        107.029999,
+        632.964966
     ],
     "MaxDistance": 20.0,
-    "MarkerName": "Get to the Village",
+    "MarkerName": "Отправьтесь к командиру Петренко",
     "ShowDistance": 1,
     "TriggerOnEnter": 1,
     "TriggerOnExit": 0

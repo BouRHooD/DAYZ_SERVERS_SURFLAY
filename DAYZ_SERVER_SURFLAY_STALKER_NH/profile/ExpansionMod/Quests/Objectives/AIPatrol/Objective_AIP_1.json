@@ -2,7 +2,7 @@
     "ConfigVersion": 28,
     "ID": 1,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 5 units of the bandit patrol at the marked location",
+    "ObjectiveText": "Убить 5 бандитов на АТП",
     "TimeLimit": -1,
     "Active": 1,
     "MaxDistance": -1.0,
@@ -85,6 +85,11 @@
         "ObjectClassName": "",
         "WaypointInterpolation": "",
         "UseRandomWaypointAsStartPoint": 1,
-        "Waypoints": []
+        "Waypoints": [
+			"5764.660156 89.555000 1034.554932",
+			"5762.891113 89.555008 1074.602783",
+			"5829.750488 90.319992 1023.459656",
+			"5732.639648 89.530022 1001.666443"
+		]
     }
 }

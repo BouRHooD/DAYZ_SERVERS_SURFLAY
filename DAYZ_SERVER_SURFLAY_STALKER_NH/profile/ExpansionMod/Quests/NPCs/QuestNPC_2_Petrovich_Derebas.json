@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "SFP_NPC_Invalid01NoProps_QUEST",
+    "Position": [5200.042480, 99.738441, 911.520874],
+    "Orientation": [-81.176483, -0.000000, -0.000000],
+    "NPCName": "Петрович",
+    "DefaultNPCText": "Что тебе надо? Я занят...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "PetrovichDerebasLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}
