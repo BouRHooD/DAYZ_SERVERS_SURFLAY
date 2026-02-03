@@ -25,10 +25,13 @@ set modList=%modList%%M%@VPPAdminTools;
 set modList=%modList%%M%@SFP;
 set modList=%modList%%M%@SFP_anim_system;
 set modList=%modList%%M%@SFP NPC's for Dayz Expansion;
+set modList=%modList%%M%@STALKER Equipment;
+set modList=%modList%%M%@STALKER items;
 set modList=%modList%%M%@DayZ-Expansion-Bundle;
 set modList=%modList%%M%@DayZ-Expansion-Licensed;
 ::set modList=%modList%%M%@DayZ-Expansion-Animations;
 set modList=%modList%%M%@STALKER NewHorizon ChernobylZone;
+::set modList=%modList%%M%@NH Objects;
 set modList=%modList%%M%@STALKER NewHorizon Objects (Legacy);
 set modList=%modList%%M%@Winter Livonia;
 set modList=%modList%%M%@Winter Chernarus V2;
@@ -51,23 +54,25 @@ set modList=%modList%%M%@XZone Artifacts;
 ::set modList=%modList%%M%@CargoSorting;
 set modList=%modList%%M%@CJ187-MoreMoney;
 ::set modList=%modList%%M%@AI Bandits;
-set modList=%modList%%M%@SpawnerBubaku;
-set modList=%modList%%M%@S.T.A.L.K.E.R. Shrony(Tayniki) (Stash(Cache));
+::set modList=%modList%%M%@S.T.A.L.K.E.R. Shrony(Tayniki) (Stash(Cache));
 ::modList=%modList%%M%@SPK(Stalker Pashka Kostum);
 set modList=%modList%%M%@Stalker Anomaly & Detectors Free V2;
 set modList=%modList%%M%@Forever_Burning_Campfire;
-set modList=%modList%%M%@Search For Loot Improved;
-set modList=%modList%%M%@STALKER Equipment;
+::set modList=%modList%%M%@Search For Loot Improved;
+set modList=%modList%%M%@LootZone;
+::set modList=%modList%%M%@FridForsMods Shron - Tainiki Models;
 set modList=%modList%"
 
 ::Build server mod list
 set servermodList="-servermod=
 set servermodList=%servermodList%@PSY_Server;
+set servermodList=%servermodList%@LootZone_SERVER;
 ::set servermodList=%servermodList%@CacheSpawner_SERVER;
 set servermodList=%servermodList%@PVE_System_Server;
 set servermodList=%servermodList%@Radiation_servermod;
 set servermodList=%servermodList%@SURFLAY_STALKER_NH_SERVER;
 set servermodList=%servermodList%@Stalker Anomaly & Detectors Free V2_SERVER;
+set servermodList=%servermodList%%M%@SpawnerBubaku;
 set servermodList=%servermodList%"
 
 ::Print mod lists to console
