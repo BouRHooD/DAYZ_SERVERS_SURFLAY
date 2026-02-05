@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 6,
+    "ID": 3,
+    "ClassName": "SFP_StalkerNPC_Gaming1_QUEST",
+    "Position": [6120.700684, 99.457146, 5937.592930],
+    "Orientation": [80.000000, -0.000000, -0.000000],
+    "NPCName": "Владос",
+    "DefaultNPCText": "Сейчас, еще пять минут...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "PetrovichDerebasLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 0,
+    "Active": 1
+}

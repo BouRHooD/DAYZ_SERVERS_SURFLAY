@@ -11,5 +11,6 @@ log/
 *Log_*.txt
 DayZServer_*.ADM
 DayZServer_*.RPT
+DayZServer_*.MDMP
 DataCache/cache.ch
 ExTrace_*.csv
